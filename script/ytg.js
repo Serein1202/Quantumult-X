@@ -1,15 +1,10 @@
-/*
-Unlocks by Cuttlefish 公众号：墨鱼手记
-*/
 
 
-var origin= $response.body.match(/"originalUrl":"[^"]*"/g);
 
-var body= $response.body.match(/"download1080Url":"[^"]*"/g);
+var wallpaperId = $request.url.match(/wallpaperId%22%3A%22(\w+)%22/)[1];
 
-console.log(body);
+var openUrl = 'https://hwoss.ibzhi.com/wallpaper/'+wallpaperId+'.jpg';
 
-$notify("墨鱼手记","", '\n'+origin[0]+'\n\n'+body[0]+'\n\n');
+$notify("墨鱼手记", "", "点击我",{"open-url":openUrl});
 
-
-$done({ body });
+$done({});
