@@ -29,9 +29,12 @@ $task.fetch(checkinRequest).then(response => {
     const data = JSON.parse(response.body);
     if (data.code === '100000' && data.msg === '') {
         $notify('微博超话签到成功');
+        return;
     } else {
         $notify('微博超话签到失败', data.msg);
+        return;
     }
 }, reason => {
     $notify('微博超话签到失败', reason.error);
+    return;
 });
