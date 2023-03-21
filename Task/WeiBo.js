@@ -14,7 +14,7 @@
 // 微博超话自动签到脚本
 // 请确保您已登录微博账号并加入了需要签到的超话
 
-const checkinUrl = 'api=http://i.huati.weibo.com/aj/super/checkin&texta=签到&textb=已签到&status=0&id=1008080cea6d151d54dd9b254e33c4161cd4e5';
+const checkinUrl = 'http://i.huati.weibo.com/aj/super/checkin&texta=签到&textb=已签到&status=0&id=1008080cea6d151d54dd9b254e33c4161cd4e5';
 const checkinRequest = {
     url: checkinUrl,
     method: 'GET',
