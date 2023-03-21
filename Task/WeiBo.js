@@ -1,18 +1,18 @@
-# [task_local]
-# # 微博超话自动签到
-# 0 0 0 * * * * weibo_checkin.js
+// [task_local]
+//  # 微博超话自动签到
+// 0 0 0 * * * * weibo_checkin.js
 
-# [rewrite_local]
-# # 微博超话页面跳转
-# ^https://weibo\.com/p/aj/general/button.*$ url script-request-header weibo_checkin.js
+//  [rewrite_local]
+//  # 微博超话页面跳转
+//  ^https://weibo\.com/p/aj/general/button.*$ url script-request-header weibo_checkin.js
 
-# [mitm]
-# # 微博域名
-# hostname = weibo.com
+// [mitm]
+// # 微博域名
+// hostname = weibo.com
 
-# [script]
-# // 微博超话自动签到脚本
-# // 请确保您已登录微博账号并加入了需要签到的超话
+// [script]
+// 微博超话自动签到脚本
+// 请确保您已登录微博账号并加入了需要签到的超话
 
 const checkinUrl = 'https://weibo.com/p/1008080cea6d151d54dd9b254e33c4161cd4e5/super_index';
 const checkinRequest = {
