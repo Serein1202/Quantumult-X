@@ -22,17 +22,13 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐, img-url=https://qxnav.com/rules/QuantumultX/img/qqmusic.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js, tag=百度签到, img-url=https://qxnav.com/rules/QuantumultX/img/baidu.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://qxnav.com/rules/QuantumultX/img/tieba.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://qxnav.com/rules/QuantumultX/img/elem.png, enabled=true",
         "10 00 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么领豆（超级吃货卡抓ck）, img-url=https://qxnav.com/rules/QuantumultX/img/elem.png, enabled=true",
         "00 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么会员任务（超级吃货卡抓ck）, img-url=https://qxnav.com/rules/QuantumultX/img/elem.png, enabled=true",
-        "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=⚠️小黑盒, img-url=https://qxnav.com/rules/QuantumultX/img/heybox.png, enabled=true",
-        "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://qxnav.com/rules/QuantumultX/img/umetrip.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://qxnav.com/rules/QuantumultX/img/elem.png, enabled=true",
-        "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://qxnav.com/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://qxnav.com/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 11 8 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js, tag=微博签到, img-url=https://qxnav.com/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://qxnav.com/rules/QuantumultX/img/airport.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://qxnav.com/rules/QuantumultX/img/airport.png, enabled=true",
-        "0 0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://qxnav.com/rules/QuantumultX/img/testflight.png, enabled=true",
+        "0 0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://qxnav.com/rules/QuantumultX/img/testflight.png, enabled=true"
     ]
 }
