@@ -1,14 +1,15 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-16 02:12:43
-# HOST: 18
+# UPDATED: 2023-05-28 18:22:39
+# HOST: 19
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3450
-# IP-CIDR: 10
+# HOST-SUFFIX: 3539
+# HOST-WILDCARD: 1
+# IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3522
+# TOTAL: 3614
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -27,6 +28,7 @@ HOST,sms.imagetasks.com,ChinaNoMedia
 HOST,smtp.office365.com,ChinaNoMedia
 HOST,steamcommunity-a.akamaihd.net,ChinaNoMedia
 HOST,www.libvideo.com,ChinaNoMedia
+HOST,www.yxssp.com,ChinaNoMedia
 HOST-SUFFIX,00cdn.com,ChinaNoMedia
 HOST-SUFFIX,0123456789.com,ChinaNoMedia
 HOST-SUFFIX,0379home.com,ChinaNoMedia
@@ -303,6 +305,7 @@ HOST-SUFFIX,aaplimg.com,ChinaNoMedia
 HOST-SUFFIX,aardio.com,ChinaNoMedia
 HOST-SUFFIX,abc-ca.com,ChinaNoMedia
 HOST-SUFFIX,abchina.com,ChinaNoMedia
+HOST-SUFFIX,abercrombie.com,ChinaNoMedia
 HOST-SUFFIX,abhouses.com,ChinaNoMedia
 HOST-SUFFIX,acadn.com,ChinaNoMedia
 HOST-SUFFIX,acctdns.com,ChinaNoMedia
@@ -351,7 +354,6 @@ HOST-SUFFIX,aiyunxiao.com,ChinaNoMedia
 HOST-SUFFIX,aizhan.com,ChinaNoMedia
 HOST-SUFFIX,ajzq.com,ChinaNoMedia
 HOST-SUFFIX,akadns.net,ChinaNoMedia
-HOST-SUFFIX,akamaized.net,ChinaNoMedia
 HOST-SUFFIX,aldwx.com,ChinaNoMedia
 HOST-SUFFIX,ali213.net,ChinaNoMedia
 HOST-SUFFIX,aliapp.org,ChinaNoMedia
@@ -448,8 +450,10 @@ HOST-SUFFIX,apabi.com,ChinaNoMedia
 HOST-SUFFIX,apcdns.net,ChinaNoMedia
 HOST-SUFFIX,api.crisp.chat,ChinaNoMedia
 HOST-SUFFIX,apigwtencent.com,ChinaNoMedia
+HOST-SUFFIX,apimkt.net,ChinaNoMedia
 HOST-SUFFIX,apk3.com,ChinaNoMedia
 HOST-SUFFIX,apk8.com,ChinaNoMedia
+HOST-SUFFIX,aplaybox.com,ChinaNoMedia
 HOST-SUFFIX,apollo.auto,ChinaNoMedia
 HOST-SUFFIX,appchina.com,ChinaNoMedia
 HOST-SUFFIX,appeeres.com,ChinaNoMedia
@@ -502,9 +506,7 @@ HOST-SUFFIX,banmaaike.com,ChinaNoMedia
 HOST-SUFFIX,baofeng.com,ChinaNoMedia
 HOST-SUFFIX,baomitu.com,ChinaNoMedia
 HOST-SUFFIX,baoxianshichang.com,ChinaNoMedia
-HOST-SUFFIX,battle.net,ChinaNoMedia
 HOST-SUFFIX,battlecare.net,ChinaNoMedia
-HOST-SUFFIX,battlenet.com,ChinaNoMedia
 HOST-SUFFIX,baydn.com,ChinaNoMedia
 HOST-SUFFIX,bazai.com,ChinaNoMedia
 HOST-SUFFIX,bbbcdns.com,ChinaNoMedia
@@ -533,6 +535,7 @@ HOST-SUFFIX,benmi.com,ChinaNoMedia
 HOST-SUFFIX,berui.com,ChinaNoMedia
 HOST-SUFFIX,bestopview.com,ChinaNoMedia
 HOST-SUFFIX,bh3.com,ChinaNoMedia
+HOST-SUFFIX,bhsr.com,ChinaNoMedia
 HOST-SUFFIX,biancheng.net,ChinaNoMedia
 HOST-SUFFIX,bianews.com,ChinaNoMedia
 HOST-SUFFIX,bibaodao.com,ChinaNoMedia
@@ -558,7 +561,6 @@ HOST-SUFFIX,bkapps.com,ChinaNoMedia
 HOST-SUFFIX,bkclouds.cc,ChinaNoMedia
 HOST-SUFFIX,bktencent.com,ChinaNoMedia
 HOST-SUFFIX,blackdragon.com,ChinaNoMedia
-HOST-SUFFIX,blizzard.com,ChinaNoMedia
 HOST-SUFFIX,blogjava.net,ChinaNoMedia
 HOST-SUFFIX,blyun.com,ChinaNoMedia
 HOST-SUFFIX,bmj.com,ChinaNoMedia
@@ -601,8 +603,10 @@ HOST-SUFFIX,bytedns.net,ChinaNoMedia
 HOST-SUFFIX,bytedns1.com,ChinaNoMedia
 HOST-SUFFIX,bytednsdoc.com,ChinaNoMedia
 HOST-SUFFIX,bytefcdn.com,ChinaNoMedia
+HOST-SUFFIX,bytegecko.com,ChinaNoMedia
 HOST-SUFFIX,bytegoofy.com,ChinaNoMedia
 HOST-SUFFIX,bytegslb.com,ChinaNoMedia
+HOST-SUFFIX,bytehwm.com,ChinaNoMedia
 HOST-SUFFIX,byteimg.com,ChinaNoMedia
 HOST-SUFFIX,bytelb.net,ChinaNoMedia
 HOST-SUFFIX,bytescm.com,ChinaNoMedia
@@ -645,6 +649,8 @@ HOST-SUFFIX,cczq.com,ChinaNoMedia
 HOST-SUFFIX,cczq.net,ChinaNoMedia
 HOST-SUFFIX,cdn20.com,ChinaNoMedia
 HOST-SUFFIX,cdn30.org,ChinaNoMedia
+HOST-SUFFIX,cdncl.net,ChinaNoMedia
+HOST-SUFFIX,cdndo.com,ChinaNoMedia
 HOST-SUFFIX,cdndoctor.com,ChinaNoMedia
 HOST-SUFFIX,cdngot.com,ChinaNoMedia
 HOST-SUFFIX,cdngslb.com,ChinaNoMedia
@@ -706,6 +712,12 @@ HOST-SUFFIX,cecdc.com,ChinaNoMedia
 HOST-SUFFIX,cecport.com,ChinaNoMedia
 HOST-SUFFIX,centanet.com,ChinaNoMedia
 HOST-SUFFIX,cerambath.org,ChinaNoMedia
+HOST-SUFFIX,cf-ns.com,ChinaNoMedia
+HOST-SUFFIX,cf-ns.net,ChinaNoMedia
+HOST-SUFFIX,cf-ns.site,ChinaNoMedia
+HOST-SUFFIX,cf-ns.tech,ChinaNoMedia
+HOST-SUFFIX,cftest7.com,ChinaNoMedia
+HOST-SUFFIX,cftest8.com,ChinaNoMedia
 HOST-SUFFIX,cfund108.com,ChinaNoMedia
 HOST-SUFFIX,cfzq.com,ChinaNoMedia
 HOST-SUFFIX,cgws.com,ChinaNoMedia
@@ -799,12 +811,14 @@ HOST-SUFFIX,citicifh.com,ChinaNoMedia
 HOST-SUFFIX,citics.com.hk,ChinaNoMedia
 HOST-SUFFIX,citicsf.com,ChinaNoMedia
 HOST-SUFFIX,city8.com,ChinaNoMedia
+HOST-SUFFIX,ciweimao.com,ChinaNoMedia
 HOST-SUFFIX,cjol.com,ChinaNoMedia
 HOST-SUFFIX,cjsc.com,ChinaNoMedia
 HOST-SUFFIX,clarivate.com,ChinaNoMedia
 HOST-SUFFIX,clashroyaleapp.com,ChinaNoMedia
 HOST-SUFFIX,classix-unlimited.co.uk,ChinaNoMedia
 HOST-SUFFIX,click.qianqian.com,ChinaNoMedia
+HOST-SUFFIX,clk1.top,ChinaNoMedia
 HOST-SUFFIX,cloud-beijing.com,ChinaNoMedia
 HOST-SUFFIX,cloud-hebi.com,ChinaNoMedia
 HOST-SUFFIX,cloud-industry-delivery.site,ChinaNoMedia
@@ -834,6 +848,12 @@ HOST-SUFFIX,clouddalian.com,ChinaNoMedia
 HOST-SUFFIX,clouddatong.com,ChinaNoMedia
 HOST-SUFFIX,clouddn.com,ChinaNoMedia
 HOST-SUFFIX,clouddongying.com,ChinaNoMedia
+HOST-SUFFIX,cloudflare-cn.com,ChinaNoMedia
+HOST-SUFFIX,cloudflarecn.net,ChinaNoMedia
+HOST-SUFFIX,cloudflareinsights-cn.com,ChinaNoMedia
+HOST-SUFFIX,cloudflareprod.com,ChinaNoMedia
+HOST-SUFFIX,cloudflarestaging.com,ChinaNoMedia
+HOST-SUFFIX,cloudflarestoragegw.com,ChinaNoMedia
 HOST-SUFFIX,cloudfoshan.com,ChinaNoMedia
 HOST-SUFFIX,cloudfront-cn.net,ChinaNoMedia
 HOST-SUFFIX,cloudfuqing.com,ChinaNoMedia
@@ -900,6 +920,7 @@ HOST-SUFFIX,cmbwinglungbank.com,ChinaNoMedia
 HOST-SUFFIX,cmcm.com,ChinaNoMedia
 HOST-SUFFIX,cmcmcdn.com,ChinaNoMedia
 HOST-SUFFIX,cmct.tv,ChinaNoMedia
+HOST-SUFFIX,cmechina.net,ChinaNoMedia
 HOST-SUFFIX,cmf.biz,ChinaNoMedia
 HOST-SUFFIX,cmf.ltd,ChinaNoMedia
 HOST-SUFFIX,cmfchina.com,ChinaNoMedia
@@ -937,6 +958,7 @@ HOST-SUFFIX,cnki.net,ChinaNoMedia
 HOST-SUFFIX,cnlang.org,ChinaNoMedia
 HOST-SUFFIX,cnlaw.net,ChinaNoMedia
 HOST-SUFFIX,cnmooc.org,ChinaNoMedia
+HOST-SUFFIX,cnmstl.net,ChinaNoMedia
 HOST-SUFFIX,cnsciedu.com,ChinaNoMedia
 HOST-SUFFIX,cnstock.com,ChinaNoMedia
 HOST-SUFFIX,cnsuning.com,ChinaNoMedia
@@ -965,12 +987,14 @@ HOST-SUFFIX,coolbuy.com,ChinaNoMedia
 HOST-SUFFIX,cooldock.com,ChinaNoMedia
 HOST-SUFFIX,coolsite.vip,ChinaNoMedia
 HOST-SUFFIX,cootekservice.com,ChinaNoMedia
+HOST-SUFFIX,cowlevel.net,ChinaNoMedia
 HOST-SUFFIX,cowtransfer.com,ChinaNoMedia
 HOST-SUFFIX,cppblog.com,ChinaNoMedia
 HOST-SUFFIX,cpppf.org,ChinaNoMedia
 HOST-SUFFIX,cqccn.com,ChinaNoMedia
 HOST-SUFFIX,cqvip.com,ChinaNoMedia
 HOST-SUFFIX,cr173.com,ChinaNoMedia
+HOST-SUFFIX,crashlytics.com,ChinaNoMedia
 HOST-SUFFIX,crggcn.com,ChinaNoMedia
 HOST-SUFFIX,crsky.com,ChinaNoMedia
 HOST-SUFFIX,cryuantafund.com,ChinaNoMedia
@@ -1065,6 +1089,7 @@ HOST-SUFFIX,dfcfw.com,ChinaNoMedia
 HOST-SUFFIX,dfham.com,ChinaNoMedia
 HOST-SUFFIX,dfkhgj.com,ChinaNoMedia
 HOST-SUFFIX,dginfo.com,ChinaNoMedia
+HOST-SUFFIX,dgjy.net,ChinaNoMedia
 HOST-SUFFIX,dgphospital.com,ChinaNoMedia
 HOST-SUFFIX,dgtle.com,ChinaNoMedia
 HOST-SUFFIX,dianchacha.com,ChinaNoMedia
@@ -1142,7 +1167,6 @@ HOST-SUFFIX,downxia.com,ChinaNoMedia
 HOST-SUFFIX,downyi.com,ChinaNoMedia
 HOST-SUFFIX,dpfile.com,ChinaNoMedia
 HOST-SUFFIX,dratio.com,ChinaNoMedia
-HOST-SUFFIX,dreamcast.hk,ChinaNoMedia
 HOST-SUFFIX,dreams-travel.com,ChinaNoMedia
 HOST-SUFFIX,drivergenius.com,ChinaNoMedia
 HOST-SUFFIX,dtstatic.com,ChinaNoMedia
@@ -1155,6 +1179,7 @@ HOST-SUFFIX,duitang.com,ChinaNoMedia
 HOST-SUFFIX,duoduocdn.com,ChinaNoMedia
 HOST-SUFFIX,duokan.com,ChinaNoMedia
 HOST-SUFFIX,duokanbox.com,ChinaNoMedia
+HOST-SUFFIX,duolabao.com,ChinaNoMedia
 HOST-SUFFIX,duomai.com,ChinaNoMedia
 HOST-SUFFIX,duoshuo.com,ChinaNoMedia
 HOST-SUFFIX,duote.com,ChinaNoMedia
@@ -1195,6 +1220,7 @@ HOST-SUFFIX,ebtrust.com,ChinaNoMedia
 HOST-SUFFIX,ecitic.com,ChinaNoMedia
 HOST-SUFFIX,ecitic.net,ChinaNoMedia
 HOST-SUFFIX,ecjobhome.com,ChinaNoMedia
+HOST-SUFFIX,ecloud-gdu.com,ChinaNoMedia
 HOST-SUFFIX,edu4399.com,ChinaNoMedia
 HOST-SUFFIX,eduei.com,ChinaNoMedia
 HOST-SUFFIX,eeyy.com,ChinaNoMedia
@@ -1203,7 +1229,6 @@ HOST-SUFFIX,ele.me,ChinaNoMedia
 HOST-SUFFIX,elecfans.com,ChinaNoMedia
 HOST-SUFFIX,elemecdn.com,ChinaNoMedia
 HOST-SUFFIX,elong.com,ChinaNoMedia
-HOST-SUFFIX,elongstatic.com,ChinaNoMedia
 HOST-SUFFIX,emarbox.com,ChinaNoMedia
 HOST-SUFFIX,emas-poc.com,ChinaNoMedia
 HOST-SUFFIX,emerald.com,ChinaNoMedia
@@ -1229,6 +1254,7 @@ HOST-SUFFIX,excelhome.net,ChinaNoMedia
 HOST-SUFFIX,exmailgz.com,ChinaNoMedia
 HOST-SUFFIX,expreview.com,ChinaNoMedia
 HOST-SUFFIX,extfans.com,ChinaNoMedia
+HOST-SUFFIX,ezpro.pro,ChinaNoMedia
 HOST-SUFFIX,f.cx,ChinaNoMedia
 HOST-SUFFIX,faceu.com,ChinaNoMedia
 HOST-SUFFIX,faceu.mobi,ChinaNoMedia
@@ -1241,10 +1267,13 @@ HOST-SUFFIX,fanli.com,ChinaNoMedia
 HOST-SUFFIX,fanxian.com,ChinaNoMedia
 HOST-SUFFIX,fastapi.net,ChinaNoMedia
 HOST-SUFFIX,fastcdn.com,ChinaNoMedia
+HOST-SUFFIX,fdcyun.com,ChinaNoMedia
 HOST-SUFFIX,feihuo.com,ChinaNoMedia
 HOST-SUFFIX,feiliao.com,ChinaNoMedia
 HOST-SUFFIX,feiniaomy.com,ChinaNoMedia
+HOST-SUFFIX,feishu.net,ChinaNoMedia
 HOST-SUFFIX,feishucdn.com,ChinaNoMedia
+HOST-SUFFIX,feishupkg.com,ChinaNoMedia
 HOST-SUFFIX,feizhu.com,ChinaNoMedia
 HOST-SUFFIX,feng.com,ChinaNoMedia
 HOST-SUFFIX,feng1.com,ChinaNoMedia
@@ -1273,6 +1302,7 @@ HOST-SUFFIX,flycua.com,ChinaNoMedia
 HOST-SUFFIX,flyert.com,ChinaNoMedia
 HOST-SUFFIX,fm3838.com,ChinaNoMedia
 HOST-SUFFIX,fofa.info,ChinaNoMedia
+HOST-SUFFIX,fofa.so,ChinaNoMedia
 HOST-SUFFIX,ford.com,ChinaNoMedia
 HOST-SUFFIX,foresightfund.com,ChinaNoMedia
 HOST-SUFFIX,founderff.com,ChinaNoMedia
@@ -1380,6 +1410,7 @@ HOST-SUFFIX,goodread.com,ChinaNoMedia
 HOST-SUFFIX,goofish.com,ChinaNoMedia
 HOST-SUFFIX,googletraveladservices.com,ChinaNoMedia
 HOST-SUFFIX,goosail.com,ChinaNoMedia
+HOST-SUFFIX,goproxy.io,ChinaNoMedia
 HOST-SUFFIX,goselling.com,ChinaNoMedia
 HOST-SUFFIX,goto-game.com,ChinaNoMedia
 HOST-SUFFIX,goto-game.mobi,ChinaNoMedia
@@ -1446,17 +1477,21 @@ HOST-SUFFIX,haosou.com,ChinaNoMedia
 HOST-SUFFIX,haosou.net,ChinaNoMedia
 HOST-SUFFIX,haote.com,ChinaNoMedia
 HOST-SUFFIX,haowu.link,ChinaNoMedia
+HOST-SUFFIX,haoyisheng.com,ChinaNoMedia
 HOST-SUFFIX,haoyouyinxiang.com,ChinaNoMedia
 HOST-SUFFIX,happyhlddz.com,ChinaNoMedia
 HOST-SUFFIX,harmonyos.com,ChinaNoMedia
 HOST-SUFFIX,hazq.com,ChinaNoMedia
+HOST-SUFFIX,hbooker.com,ChinaNoMedia
 HOST-SUFFIX,hczq.com,ChinaNoMedia
 HOST-SUFFIX,hdbits.org,ChinaNoMedia
 HOST-SUFFIX,hdchina.org,ChinaNoMedia
 HOST-SUFFIX,hdcmct.org,ChinaNoMedia
 HOST-SUFFIX,hddolby.com,ChinaNoMedia
 HOST-SUFFIX,hdhome.org,ChinaNoMedia
+HOST-SUFFIX,hdsky.me,ChinaNoMedia
 HOST-SUFFIX,hdyxgame.com,ChinaNoMedia
+HOST-SUFFIX,healthjd.com,ChinaNoMedia
 HOST-SUFFIX,heavenlywind.cc,ChinaNoMedia
 HOST-SUFFIX,hefei.cc,ChinaNoMedia
 HOST-SUFFIX,heisha.net,ChinaNoMedia
@@ -1524,6 +1559,7 @@ HOST-SUFFIX,htcases.com,ChinaNoMedia
 HOST-SUFFIX,hteacher.net,ChinaNoMedia
 HOST-SUFFIX,htsec.com,ChinaNoMedia
 HOST-SUFFIX,huajingsec.com,ChinaNoMedia
+HOST-SUFFIX,huangyuhui.net,ChinaNoMedia
 HOST-SUFFIX,huanqiu.com,ChinaNoMedia
 HOST-SUFFIX,huashengdaili.com,ChinaNoMedia
 HOST-SUFFIX,huatu.com,ChinaNoMedia
@@ -1672,6 +1708,7 @@ HOST-SUFFIX,im2maker.com,ChinaNoMedia
 HOST-SUFFIX,images-amazon.com,ChinaNoMedia
 HOST-SUFFIX,imcapptest.com,ChinaNoMedia
 HOST-SUFFIX,imedao.com,ChinaNoMedia
+HOST-SUFFIX,imf.org,ChinaNoMedia
 HOST-SUFFIX,img4399.com,ChinaNoMedia
 HOST-SUFFIX,img4me.com,ChinaNoMedia
 HOST-SUFFIX,imgo.tv,ChinaNoMedia
@@ -1684,6 +1721,7 @@ HOST-SUFFIX,indienova.com,ChinaNoMedia
 HOST-SUFFIX,infinitynewtab.com,ChinaNoMedia
 HOST-SUFFIX,infoq.com,ChinaNoMedia
 HOST-SUFFIX,infoqstatic.com,ChinaNoMedia
+HOST-SUFFIX,inftab.com,ChinaNoMedia
 HOST-SUFFIX,intltencentcos.com,ChinaNoMedia
 HOST-SUFFIX,iop.org,ChinaNoMedia
 HOST-SUFFIX,ip-cdn.com,ChinaNoMedia
@@ -1692,6 +1730,8 @@ HOST-SUFFIX,ip138.com,ChinaNoMedia
 HOST-SUFFIX,ipinyou.com,ChinaNoMedia
 HOST-SUFFIX,ipip.net,ChinaNoMedia
 HOST-SUFFIX,ipplus360.com,ChinaNoMedia
+HOST-SUFFIX,iprdp.net,ChinaNoMedia
+HOST-SUFFIX,ipssh.net,ChinaNoMedia
 HOST-SUFFIX,ipv6-test.com,ChinaNoMedia
 HOST-SUFFIX,iranshao.com,ChinaNoMedia
 HOST-SUFFIX,irs01.com,ChinaNoMedia
@@ -1813,6 +1853,7 @@ HOST-SUFFIX,jdemall.com,ChinaNoMedia
 HOST-SUFFIX,jdfw1.com,ChinaNoMedia
 HOST-SUFFIX,jdgslb.com,ChinaNoMedia
 HOST-SUFFIX,jdgslb.net,ChinaNoMedia
+HOST-SUFFIX,jdh.com,ChinaNoMedia
 HOST-SUFFIX,jdjinrong.com,ChinaNoMedia
 HOST-SUFFIX,jdl.com,ChinaNoMedia
 HOST-SUFFIX,jdpay.com,ChinaNoMedia
@@ -1959,6 +2000,7 @@ HOST-SUFFIX,kuaihou.com,ChinaNoMedia
 HOST-SUFFIX,kuaikanmanhua.com,ChinaNoMedia
 HOST-SUFFIX,kuaishou.com,ChinaNoMedia
 HOST-SUFFIX,kuaizhan.com,ChinaNoMedia
+HOST-SUFFIX,kuangxiangit.com,ChinaNoMedia
 HOST-SUFFIX,kumiao.com,ChinaNoMedia
 HOST-SUFFIX,kunlunaq.com,ChinaNoMedia
 HOST-SUFFIX,kunlunar.com,ChinaNoMedia
@@ -2032,6 +2074,7 @@ HOST-SUFFIX,leanote.com,ChinaNoMedia
 HOST-SUFFIX,lecloud.com,ChinaNoMedia
 HOST-SUFFIX,ledu.com,ChinaNoMedia
 HOST-SUFFIX,leetcode-cn.com,ChinaNoMedia
+HOST-SUFFIX,leigod.com,ChinaNoMedia
 HOST-SUFFIX,leikeji.com,ChinaNoMedia
 HOST-SUFFIX,leiphone.com,ChinaNoMedia
 HOST-SUFFIX,leiting.com,ChinaNoMedia
@@ -2043,7 +2086,6 @@ HOST-SUFFIX,letvcdn.com,ChinaNoMedia
 HOST-SUFFIX,letvcloud.com,ChinaNoMedia
 HOST-SUFFIX,letvimg.com,ChinaNoMedia
 HOST-SUFFIX,lf-rc1.yhgfb-cn-static.com,ChinaNoMedia
-HOST-SUFFIX,lgstatic.com,ChinaNoMedia
 HOST-SUFFIX,lhzq.com,ChinaNoMedia
 HOST-SUFFIX,liangxinyao.com,ChinaNoMedia
 HOST-SUFFIX,lianjia.com,ChinaNoMedia
@@ -2077,6 +2119,7 @@ HOST-SUFFIX,lizhi.fm,ChinaNoMedia
 HOST-SUFFIX,lizhi.io,ChinaNoMedia
 HOST-SUFFIX,lizhifm.com,ChinaNoMedia
 HOST-SUFFIX,ljcdn.com,ChinaNoMedia
+HOST-SUFFIX,lkcoffee.com,ChinaNoMedia
 HOST-SUFFIX,lkkbrand.com,ChinaNoMedia
 HOST-SUFFIX,llsapp.com,ChinaNoMedia
 HOST-SUFFIX,llscdn.com,ChinaNoMedia
@@ -2098,6 +2141,7 @@ HOST-SUFFIX,lrts.me,ChinaNoMedia
 HOST-SUFFIX,lsplayer.com,ChinaNoMedia
 HOST-SUFFIX,lu.com,ChinaNoMedia
 HOST-SUFFIX,lucifr.com,ChinaNoMedia
+HOST-SUFFIX,luckincoffeecdn.com,ChinaNoMedia
 HOST-SUFFIX,luckyair.net,ChinaNoMedia
 HOST-SUFFIX,ludashi.com,ChinaNoMedia
 HOST-SUFFIX,ludoworld.net,ChinaNoMedia
@@ -2134,6 +2178,7 @@ HOST-SUFFIX,mail4399.com,ChinaNoMedia
 HOST-SUFFIX,maisanqi.com,ChinaNoMedia
 HOST-SUFFIX,maitix.com,ChinaNoMedia
 HOST-SUFFIX,mamecn.com,ChinaNoMedia
+HOST-SUFFIX,manhuagui.com,ChinaNoMedia
 HOST-SUFFIX,manhuatai.com,ChinaNoMedia
 HOST-SUFFIX,manmanbuy.com,ChinaNoMedia
 HOST-SUFFIX,manmankan.com,ChinaNoMedia
@@ -2154,6 +2199,7 @@ HOST-SUFFIX,mcbang.com,ChinaNoMedia
 HOST-SUFFIX,mdeer.com,ChinaNoMedia
 HOST-SUFFIX,mdpda.com,ChinaNoMedia
 HOST-SUFFIX,me.com,ChinaNoMedia
+HOST-SUFFIX,me1.ltd,ChinaNoMedia
 HOST-SUFFIX,me4399.com,ChinaNoMedia
 HOST-SUFFIX,mechina.org,ChinaNoMedia
 HOST-SUFFIX,media.paperclipclub.net,ChinaNoMedia
@@ -2202,6 +2248,7 @@ HOST-SUFFIX,mihoyomall.com,ChinaNoMedia
 HOST-SUFFIX,mijisou.com,ChinaNoMedia
 HOST-SUFFIX,mikecrm.com,ChinaNoMedia
 HOST-SUFFIX,minapp.com,ChinaNoMedia
+HOST-SUFFIX,mingyuanyun.com,ChinaNoMedia
 HOST-SUFFIX,minhangshi.com,ChinaNoMedia
 HOST-SUFFIX,minitiao.com,ChinaNoMedia
 HOST-SUFFIX,mipcdn.com,ChinaNoMedia
@@ -2277,10 +2324,12 @@ HOST-SUFFIX,myhwclouds.com,ChinaNoMedia
 HOST-SUFFIX,myilibrary.com,ChinaNoMedia
 HOST-SUFFIX,myip.la,ChinaNoMedia
 HOST-SUFFIX,myoppo.com,ChinaNoMedia
+HOST-SUFFIX,mypaas.com,ChinaNoMedia
 HOST-SUFFIX,myqcloud.com,ChinaNoMedia
 HOST-SUFFIX,myshow360.net,ChinaNoMedia
 HOST-SUFFIX,mysiteres.com,ChinaNoMedia
 HOST-SUFFIX,myunlu.com,ChinaNoMedia
+HOST-SUFFIX,myypark.com,ChinaNoMedia
 HOST-SUFFIX,myyx618.com,ChinaNoMedia
 HOST-SUFFIX,myzaker.com,ChinaNoMedia
 HOST-SUFFIX,mzres.com,ChinaNoMedia
@@ -2324,7 +2373,6 @@ HOST-SUFFIX,npmmirror.com,ChinaNoMedia
 HOST-SUFFIX,nruan.com,ChinaNoMedia
 HOST-SUFFIX,ntalker.com,ChinaNoMedia
 HOST-SUFFIX,nuomi.com,ChinaNoMedia
-HOST-SUFFIX,nvidia.com,ChinaNoMedia
 HOST-SUFFIX,nvsheng.com,ChinaNoMedia
 HOST-SUFFIX,nx-sc.com,ChinaNoMedia
 HOST-SUFFIX,nzbdw.com,ChinaNoMedia
@@ -2403,10 +2451,6 @@ HOST-SUFFIX,paipaibang.com,ChinaNoMedia
 HOST-SUFFIX,paopaoche.net,ChinaNoMedia
 HOST-SUFFIX,papocket.com,ChinaNoMedia
 HOST-SUFFIX,passthepopcorn.me,ChinaNoMedia
-HOST-SUFFIX,paypal-mktg.com,ChinaNoMedia
-HOST-SUFFIX,paypal.com,ChinaNoMedia
-HOST-SUFFIX,paypal.me,ChinaNoMedia
-HOST-SUFFIX,paypalobjects.com,ChinaNoMedia
 HOST-SUFFIX,pc6.com,ChinaNoMedia
 HOST-SUFFIX,pcbeta.com,ChinaNoMedia
 HOST-SUFFIX,pchome.net,ChinaNoMedia
@@ -2424,6 +2468,7 @@ HOST-SUFFIX,phpwind.net,ChinaNoMedia
 HOST-SUFFIX,piaoliang.com,ChinaNoMedia
 HOST-SUFFIX,pigai.org,ChinaNoMedia
 HOST-SUFFIX,pinduoduo.com,ChinaNoMedia
+HOST-SUFFIX,pinduoduo.net,ChinaNoMedia
 HOST-SUFFIX,pingan.com,ChinaNoMedia
 HOST-SUFFIX,pingan.com.hk,ChinaNoMedia
 HOST-SUFFIX,pingplusplus.com,ChinaNoMedia
@@ -2705,6 +2750,7 @@ HOST-SUFFIX,sinopecsales.com,ChinaNoMedia
 HOST-SUFFIX,sjwyx.com,ChinaNoMedia
 HOST-SUFFIX,skycn.com,ChinaNoMedia
 HOST-SUFFIX,skysea.com,ChinaNoMedia
+HOST-SUFFIX,slk1.net,ChinaNoMedia
 HOST-SUFFIX,sllssrq.com,ChinaNoMedia
 HOST-SUFFIX,smartisan.com,ChinaNoMedia
 HOST-SUFFIX,smtcdns.com,ChinaNoMedia
@@ -2791,6 +2837,8 @@ HOST-SUFFIX,szfw.org,ChinaNoMedia
 HOST-SUFFIX,szhk.com,ChinaNoMedia
 HOST-SUFFIX,szzfgjj.com,ChinaNoMedia
 HOST-SUFFIX,t.tt,ChinaNoMedia
+HOST-SUFFIX,t00ls.cc,ChinaNoMedia
+HOST-SUFFIX,t00ls.net,ChinaNoMedia
 HOST-SUFFIX,t1y5.com,ChinaNoMedia
 HOST-SUFFIX,taihuoniao.com,ChinaNoMedia
 HOST-SUFFIX,taikang.com,ChinaNoMedia
@@ -2927,6 +2975,7 @@ HOST-SUFFIX,tipdim.org,ChinaNoMedia
 HOST-SUFFIX,titanar.com,ChinaNoMedia
 HOST-SUFFIX,tivitv.com,ChinaNoMedia
 HOST-SUFFIX,tjjt360.com,ChinaNoMedia
+HOST-SUFFIX,tjstats.com,ChinaNoMedia
 HOST-SUFFIX,tjupt.org,ChinaNoMedia
 HOST-SUFFIX,tkhealthcare.com,ChinaNoMedia
 HOST-SUFFIX,tlgslb.com,ChinaNoMedia
@@ -2936,6 +2985,7 @@ HOST-SUFFIX,tmall.hk,ChinaNoMedia
 HOST-SUFFIX,tmall.ru,ChinaNoMedia
 HOST-SUFFIX,tmalltv.com,ChinaNoMedia
 HOST-SUFFIX,tmcdn.net,ChinaNoMedia
+HOST-SUFFIX,tmjiasuqi.com,ChinaNoMedia
 HOST-SUFFIX,tmjl.ai,ChinaNoMedia
 HOST-SUFFIX,tmtpost.com,ChinaNoMedia
 HOST-SUFFIX,tmtsmartlife.com,ChinaNoMedia
@@ -2947,9 +2997,11 @@ HOST-SUFFIX,tongdun.net,ChinaNoMedia
 HOST-SUFFIX,tongji.linezing.com,ChinaNoMedia
 HOST-SUFFIX,tongtaiamc.com,ChinaNoMedia
 HOST-SUFFIX,tongxianghuicn.com,ChinaNoMedia
+HOST-SUFFIX,tools.team,ChinaNoMedia
 HOST-SUFFIX,tophub.today,ChinaNoMedia
 HOST-SUFFIX,toplife.com,ChinaNoMedia
 HOST-SUFFIX,topthink.com,ChinaNoMedia
+HOST-SUFFIX,totheglory.im,ChinaNoMedia
 HOST-SUFFIX,touqikan.com,ChinaNoMedia
 HOST-SUFFIX,toursbms.com,ChinaNoMedia
 HOST-SUFFIX,toutiao.com,ChinaNoMedia
@@ -2995,6 +3047,7 @@ HOST-SUFFIX,txrjy.com,ChinaNoMedia
 HOST-SUFFIX,txtyxg.com,ChinaNoMedia
 HOST-SUFFIX,txyscdn.com,ChinaNoMedia
 HOST-SUFFIX,txyscdn.net,ChinaNoMedia
+HOST-SUFFIX,u-cdn.net,ChinaNoMedia
 HOST-SUFFIX,u.tools,ChinaNoMedia
 HOST-SUFFIX,u17.com,ChinaNoMedia
 HOST-SUFFIX,u17i.com,ChinaNoMedia
@@ -3003,11 +3056,40 @@ HOST-SUFFIX,uat1.bfsspadserver.8le8le.com,ChinaNoMedia
 HOST-SUFFIX,ubssdic.com,ChinaNoMedia
 HOST-SUFFIX,ubuntukylin.com,ChinaNoMedia
 HOST-SUFFIX,ucbug.com,ChinaNoMedia
+HOST-SUFFIX,ucgslb.com,ChinaNoMedia
+HOST-SUFFIX,ucgslb.info,ChinaNoMedia
+HOST-SUFFIX,ucgslb.net,ChinaNoMedia
+HOST-SUFFIX,ucgslb.top,ChinaNoMedia
+HOST-SUFFIX,ucloud-edm.com,ChinaNoMedia
+HOST-SUFFIX,ucloud365.com,ChinaNoMedia
+HOST-SUFFIX,ucloudadmin.com,ChinaNoMedia
+HOST-SUFFIX,ucloudapi.com,ChinaNoMedia
+HOST-SUFFIX,ucloudgda.com,ChinaNoMedia
+HOST-SUFFIX,ucloudnaming.com,ChinaNoMedia
+HOST-SUFFIX,ucloudnaming.info,ChinaNoMedia
+HOST-SUFFIX,ucloudnaming.net,ChinaNoMedia
+HOST-SUFFIX,ucloudoss.com,ChinaNoMedia
+HOST-SUFFIX,ucloudstack.com,ChinaNoMedia
+HOST-SUFFIX,ucloudstack.net,ChinaNoMedia
+HOST-SUFFIX,ucloudstor.com,ChinaNoMedia
+HOST-SUFFIX,ucloudufile.com,ChinaNoMedia
+HOST-SUFFIX,ucnaming.com,ChinaNoMedia
+HOST-SUFFIX,ucnaming.info,ChinaNoMedia
+HOST-SUFFIX,ucnaming.net,ChinaNoMedia
 HOST-SUFFIX,ucweb.com,ChinaNoMedia
 HOST-SUFFIX,udache.com,ChinaNoMedia
 HOST-SUFFIX,udacity.com,ChinaNoMedia
+HOST-SUFFIX,uewaf.com,ChinaNoMedia
 HOST-SUFFIX,ufileos.com,ChinaNoMedia
+HOST-SUFFIX,ugdtimg.com,ChinaNoMedia
 HOST-SUFFIX,uggame.com,ChinaNoMedia
+HOST-SUFFIX,ugslb.com,ChinaNoMedia
+HOST-SUFFIX,ugslb.info,ChinaNoMedia
+HOST-SUFFIX,ugslb.net,ChinaNoMedia
+HOST-SUFFIX,ugslb.top,ChinaNoMedia
+HOST-SUFFIX,ugslb2.net,ChinaNoMedia
+HOST-SUFFIX,uhasadmin.com,ChinaNoMedia
+HOST-SUFFIX,uiwow.com,ChinaNoMedia
 HOST-SUFFIX,ulikecam.com,ChinaNoMedia
 HOST-SUFFIX,um.run,ChinaNoMedia
 HOST-SUFFIX,umajor.net,ChinaNoMedia
@@ -3017,6 +3099,8 @@ HOST-SUFFIX,umetrip.com,ChinaNoMedia
 HOST-SUFFIX,umsns.com,ChinaNoMedia
 HOST-SUFFIX,umtrack.com,ChinaNoMedia
 HOST-SUFFIX,un.org,ChinaNoMedia
+HOST-SUFFIX,unaming.info,ChinaNoMedia
+HOST-SUFFIX,unaming.net,ChinaNoMedia
 HOST-SUFFIX,uni-bielefeld.de,ChinaNoMedia
 HOST-SUFFIX,uning.com,ChinaNoMedia
 HOST-SUFFIX,unionpay.com,ChinaNoMedia
@@ -3036,6 +3120,8 @@ HOST-SUFFIX,upyun.com,ChinaNoMedia
 HOST-SUFFIX,urselect.com,ChinaNoMedia
 HOST-SUFFIX,urumqi-air.com,ChinaNoMedia
 HOST-SUFFIX,useso.com,ChinaNoMedia
+HOST-SUFFIX,uslk.net,ChinaNoMedia
+HOST-SUFFIX,uucl.vip,ChinaNoMedia
 HOST-SUFFIX,uuu9.com,ChinaNoMedia
 HOST-SUFFIX,uxengine.net,ChinaNoMedia
 HOST-SUFFIX,uyunad.com,ChinaNoMedia
@@ -3065,6 +3151,8 @@ HOST-SUFFIX,vijos.org,ChinaNoMedia
 HOST-SUFFIX,vip.com,ChinaNoMedia
 HOST-SUFFIX,vipdlt.com,ChinaNoMedia
 HOST-SUFFIX,vipexam.org,ChinaNoMedia
+HOST-SUFFIX,vipmro.com,ChinaNoMedia
+HOST-SUFFIX,vipmro.net,ChinaNoMedia
 HOST-SUFFIX,visualstudio.com,ChinaNoMedia
 HOST-SUFFIX,vmall.com,ChinaNoMedia
 HOST-SUFFIX,vmallres.com,ChinaNoMedia
@@ -3110,6 +3198,7 @@ HOST-SUFFIX,weico.cc,ChinaNoMedia
 HOST-SUFFIX,weidian.com,ChinaNoMedia
 HOST-SUFFIX,weilaicaijing.com,ChinaNoMedia
 HOST-SUFFIX,weilaiyunxiao.com,ChinaNoMedia
+HOST-SUFFIX,weiphone.com,ChinaNoMedia
 HOST-SUFFIX,weiphone.net,ChinaNoMedia
 HOST-SUFFIX,weixing.com,ChinaNoMedia
 HOST-SUFFIX,weiyangx.com,ChinaNoMedia
@@ -3260,6 +3349,7 @@ HOST-SUFFIX,xuexicha.com,ChinaNoMedia
 HOST-SUFFIX,xueyuanjun.com,ChinaNoMedia
 HOST-SUFFIX,xundupdf.com,ChinaNoMedia
 HOST-SUFFIX,xunlei.com,ChinaNoMedia
+HOST-SUFFIX,xunyou.com,ChinaNoMedia
 HOST-SUFFIX,xxsy.net,ChinaNoMedia
 HOST-SUFFIX,xxtmail.com,ChinaNoMedia
 HOST-SUFFIX,xycdn.com,ChinaNoMedia
@@ -3387,6 +3477,7 @@ HOST-SUFFIX,yxhhdl.com,ChinaNoMedia
 HOST-SUFFIX,yximgs.com,ChinaNoMedia
 HOST-SUFFIX,yxwsgame.com,ChinaNoMedia
 HOST-SUFFIX,yy.com,ChinaNoMedia
+HOST-SUFFIX,yyds.co,ChinaNoMedia
 HOST-SUFFIX,yystatic.com,ChinaNoMedia
 HOST-SUFFIX,yytcdn.com,ChinaNoMedia
 HOST-SUFFIX,yzyxgame.com,ChinaNoMedia
@@ -3477,6 +3568,7 @@ HOST-SUFFIX,zuoyebang.com,ChinaNoMedia
 HOST-SUFFIX,zybang.com,ChinaNoMedia
 HOST-SUFFIX,zyh365.com,ChinaNoMedia
 HOST-SUFFIX,zzdtec.com,ChinaNoMedia
+HOST-WILDCARD,windows-*.net,ChinaNoMedia
 HOST-KEYWORD,.tmall.com,ChinaNoMedia
 HOST-KEYWORD,alicdn,ChinaNoMedia
 HOST-KEYWORD,alipay,ChinaNoMedia
@@ -3521,6 +3613,7 @@ IP-CIDR,1.255.62.0/24,ChinaNoMedia
 IP-CIDR,101.32.118.0/23,ChinaNoMedia
 IP-CIDR,101.32.96.0/20,ChinaNoMedia
 IP-CIDR,119.28.28.28/32,ChinaNoMedia
+IP-CIDR,120.195.181.180/32,ChinaNoMedia
 IP-CIDR,129.226.0.0/16,ChinaNoMedia
 IP-CIDR,182.254.116.0/24,ChinaNoMedia
 IP-CIDR,183.128.0.0/11,ChinaNoMedia

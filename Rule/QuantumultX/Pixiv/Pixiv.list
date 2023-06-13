@@ -1,9 +1,10 @@
 # NAME: Pixiv
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:52:11
-# HOST-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2023-05-28 18:22:15
+# HOST-SUFFIX: 9
+# TOTAL: 9
+HOST-SUFFIX,ads-pixiv.net,Pixiv
 HOST-SUFFIX,booth.pm,Pixiv
 HOST-SUFFIX,fanbox.cc,Pixiv
 HOST-SUFFIX,pixiv.cat,Pixiv

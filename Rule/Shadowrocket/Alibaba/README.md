@@ -12,14 +12,14 @@
 
 ## 规则统计
 
-最后更新时间：2022-12-25 18:51:49
+最后更新时间：2023-05-28 18:21:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 1167  | 
+| DOMAIN-SUFFIX | 1250  | 
 | IP-CIDR | 54  | 
-| TOTAL | 1221  | 
+| TOTAL | 1304  | 
 
 
 ## Shadowrocket 
@@ -72,6 +72,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
+- https://rules.kr328.app/alibaba-ads@ads.yaml
+- https://rules.kr328.app/alibaba@ads.yaml
+- https://rules.kr328.app/alibaba.yaml
+- https://rules.kr328.app/alibaba-ads.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

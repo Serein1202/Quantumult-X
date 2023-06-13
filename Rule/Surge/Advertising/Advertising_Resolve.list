@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-17 02:07:15
+# UPDATED: 2023-06-13 02:07:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 14650
+# DOMAIN: 15601
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 77343
-# IP-CIDR: 238
+# DOMAIN-SUFFIX: 89069
+# IP-CIDR: 248
 # URL-REGEX: 285
-# TOTAL: 92593
+# TOTAL: 105280
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
@@ -97,6 +97,7 @@ IP-CIDR,101.251.211.235/32
 IP-CIDR,103.21.91.144/32
 IP-CIDR,103.249.254.113/32
 IP-CIDR,103.49.209.27/32
+IP-CIDR,103.71.154.76/32
 IP-CIDR,103.75.152.210/32
 IP-CIDR,103.75.153.3/32
 IP-CIDR,104.195.62.12/32
@@ -142,6 +143,7 @@ IP-CIDR,117.144.242.32/32
 IP-CIDR,117.177.248.17/32
 IP-CIDR,117.177.248.41/32
 IP-CIDR,117.25.133.209/32
+IP-CIDR,118.107.47.88/32
 IP-CIDR,118.144.88.126/32
 IP-CIDR,118.144.88.215/32
 IP-CIDR,118.144.88.216/32
@@ -163,6 +165,7 @@ IP-CIDR,121.15.207.243/32
 IP-CIDR,121.199.73.185/32
 IP-CIDR,121.201.108.2/32
 IP-CIDR,121.201.11.95/32
+IP-CIDR,121.204.246.13/32
 IP-CIDR,121.251.255.0/24
 IP-CIDR,121.40.25.88/32
 IP-CIDR,121.43.75.169/32
@@ -195,8 +198,11 @@ IP-CIDR,139.196.239.52/32
 IP-CIDR,139.224.26.92/32
 IP-CIDR,139.224.74.148/32
 IP-CIDR,142.0.129.74/32
+IP-CIDR,143.92.60.44/32
 IP-CIDR,146.148.85.61/32
 IP-CIDR,154.196.143.171/32
+IP-CIDR,154.212.147.231/32
+IP-CIDR,154.7.80.158/32
 IP-CIDR,156.232.37.2/32
 IP-CIDR,156.246.162.2/32
 IP-CIDR,162.212.181.32/32
@@ -223,6 +229,7 @@ IP-CIDR,183.59.53.237/32
 IP-CIDR,185.165.169.108/32
 IP-CIDR,185.193.38.148/32
 IP-CIDR,188.89.204.198/32
+IP-CIDR,194.59.220.161/32
 IP-CIDR,198.40.52.11/32
 IP-CIDR,202.104.1.27/32
 IP-CIDR,202.105.165.202/32
@@ -286,12 +293,15 @@ IP-CIDR,23.66.147.48/32
 IP-CIDR,23.89.50.180/32
 IP-CIDR,23.91.3.114/32
 IP-CIDR,27.255.67.120/32
+IP-CIDR,34.215.155.61/32
 IP-CIDR,35.194.26.233/32
+IP-CIDR,35.227.234.222/32
 IP-CIDR,35.232.188.118/32
 IP-CIDR,35.239.57.233/32
 IP-CIDR,37.1.209.213/32
 IP-CIDR,39.107.15.115/32
 IP-CIDR,42.51.146.207/32
+IP-CIDR,44.228.85.26/32
 IP-CIDR,45.32.105.134/32
 IP-CIDR,45.34.240.72/32
 IP-CIDR,46.165.197.153/32
@@ -336,6 +346,7 @@ URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d
 URL-REGEX,^https?:\/\/(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/ting\/preload\/
 URL-REGEX,^https?:\/\/(a?d|sax)\d.sina.com
 URL-REGEX,^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert
+URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4)
 URL-REGEX,^https?:\/\/101\.201\.175\.228\/ads\/display
 URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/
@@ -422,7 +433,6 @@ URL-REGEX,^https?:\/\/appconf\.mail\.163\.com\/mmad\/
 URL-REGEX,^https?:\/\/appv6\.55haitao\.com\/IflyAd\/getAd
 URL-REGEX,^https?:\/\/asp\.cntv\.myalicdn\.com\/.+?\?maxbr=850
 URL-REGEX,^https?:\/\/b-api\.ins\.miaopai\.com\/\d\/ad/
-URL-REGEX,^https?:\/\/bdsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/business-cdn\.shouji\.sogou\.com\/wapdl\/hole\/.+?\.jpg
 URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
 URL-REGEX,^https?:\/\/c\.m\.163\.com\/nc\/gl\/

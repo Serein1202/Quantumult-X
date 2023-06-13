@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-QuantumultX定制化规则-7cd1e3) 
 
 PikPak规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -12,14 +12,14 @@ PikPak规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-12-25 18:53:24
+最后更新时间：2023-05-28 18:23:14
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST-KEYWORD | 1  | 
-| HOST-SUFFIX | 6  | 
-| TOTAL | 7  | 
+| HOST-SUFFIX | 7  | 
+| TOTAL | 8  | 
 
 
 ## QuantumultX 
@@ -59,7 +59,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-当前规则未直接引用数据源。
+《PikPak》的数据来自以下链接，如与本项目的《PikPak》规则混合使用，可能会造成规则大量重复。
+
+- https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/rule/QuantumultX/pikpak.list
+
+
+感谢以上规则作者的辛勤付出（排名不分先后）。
 
 ## 最后
 

@@ -1,10 +1,12 @@
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:48:45
+# UPDATED: 2023-05-28 18:18:43
+# HOST: 1
 # HOST-KEYWORD: 1
-# HOST-SUFFIX: 28
-# TOTAL: 29
+# HOST-SUFFIX: 29
+# TOTAL: 31
+HOST,github-cloud.s3.amazonaws.com,GitHub
 HOST-SUFFIX,atom.io,GitHub
 HOST-SUFFIX,dependabot.com,GitHub
 HOST-SUFFIX,ghcr.io,GitHub
@@ -20,6 +22,7 @@ HOST-SUFFIX,github.io,GitHub
 HOST-SUFFIX,githubapp.com,GitHub
 HOST-SUFFIX,githubassets.com,GitHub
 HOST-SUFFIX,githubhackathon.com,GitHub
+HOST-SUFFIX,githubnext.com,GitHub
 HOST-SUFFIX,githubpreview.dev,GitHub
 HOST-SUFFIX,githubstatus.com,GitHub
 HOST-SUFFIX,githubuniverse.com,GitHub

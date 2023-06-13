@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-16 02:11:21
-# DOMAIN: 18
+# UPDATED: 2023-06-12 02:11:15
+# DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3530
-# IP-CIDR: 10
+# DOMAIN-SUFFIX: 3621
+# IP-CIDR: 17
 # IP-CIDR6: 4
-# TOTAL: 3571
+# TOTAL: 3670
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -26,6 +26,7 @@ sms.imagetasks.com
 smtp.office365.com
 steamcommunity-a.akamaihd.net
 www.libvideo.com
+www.yxssp.com
 .00cdn.com
 .0123456789.com
 .0379home.com
@@ -306,6 +307,7 @@ www.libvideo.com
 .aardio.com
 .abc-ca.com
 .abchina.com
+.abercrombie.com
 .abhouses.com
 .acadn.com
 .acctdns.com
@@ -358,7 +360,6 @@ www.libvideo.com
 .aizhan.com
 .ajzq.com
 .akadns.net
-.akamaized.net
 .aldwx.com
 .ali213.net
 .aliapp.org
@@ -457,8 +458,10 @@ www.libvideo.com
 .apcdns.net
 .api.crisp.chat
 .apigwtencent.com
+.apimkt.net
 .apk3.com
 .apk8.com
+.aplaybox.com
 .apollo.auto
 .appchina.com
 .appeeres.com
@@ -512,9 +515,7 @@ www.libvideo.com
 .baofeng.com
 .baomitu.com
 .baoxianshichang.com
-.battle.net
 .battlecare.net
-.battlenet.com
 .baydn.com
 .bazai.com
 .bbbcdns.com
@@ -543,6 +544,7 @@ www.libvideo.com
 .berui.com
 .bestopview.com
 .bh3.com
+.bhsr.com
 .biancheng.net
 .bianews.com
 .bibaodao.com
@@ -564,6 +566,7 @@ www.libvideo.com
 .bilicdn3.com
 .bilicdn4.com
 .bilicdn5.com
+.bilicomics.com
 .biligame.co
 .biligame.com
 .biligame.net
@@ -589,7 +592,6 @@ www.libvideo.com
 .bkclouds.cc
 .bktencent.com
 .blackdragon.com
-.blizzard.com
 .blogjava.net
 .blyun.com
 .bmj.com
@@ -632,8 +634,10 @@ www.libvideo.com
 .bytedns1.com
 .bytednsdoc.com
 .bytefcdn.com
+.bytegecko.com
 .bytegoofy.com
 .bytegslb.com
+.bytehwm.com
 .byteimg.com
 .bytelb.net
 .bytescm.com
@@ -678,6 +682,8 @@ www.libvideo.com
 .cczq.net
 .cdn20.com
 .cdn30.org
+.cdncl.net
+.cdndo.com
 .cdndoctor.com
 .cdngot.com
 .cdngslb.com
@@ -739,6 +745,12 @@ www.libvideo.com
 .cecport.com
 .centanet.com
 .cerambath.org
+.cf-ns.com
+.cf-ns.net
+.cf-ns.site
+.cf-ns.tech
+.cftest7.com
+.cftest8.com
 .cfund108.com
 .cfzq.com
 .cgws.com
@@ -833,12 +845,14 @@ www.libvideo.com
 .citics.com.hk
 .citicsf.com
 .city8.com
+.ciweimao.com
 .cjol.com
 .cjsc.com
 .clarivate.com
 .clashroyaleapp.com
 .classix-unlimited.co.uk
 .click.qianqian.com
+.clk1.top
 .cloud-beijing.com
 .cloud-hebi.com
 .cloud-industry-delivery.site
@@ -868,6 +882,12 @@ www.libvideo.com
 .clouddatong.com
 .clouddn.com
 .clouddongying.com
+.cloudflare-cn.com
+.cloudflarecn.net
+.cloudflareinsights-cn.com
+.cloudflareprod.com
+.cloudflarestaging.com
+.cloudflarestoragegw.com
 .cloudfoshan.com
 .cloudfront-cn.net
 .cloudfuqing.com
@@ -934,6 +954,7 @@ www.libvideo.com
 .cmcm.com
 .cmcmcdn.com
 .cmct.tv
+.cmechina.net
 .cmf.biz
 .cmf.ltd
 .cmfchina.com
@@ -971,6 +992,7 @@ www.libvideo.com
 .cnlang.org
 .cnlaw.net
 .cnmooc.org
+.cnmstl.net
 .cnsciedu.com
 .cnstock.com
 .cnsuning.com
@@ -999,12 +1021,14 @@ www.libvideo.com
 .cooldock.com
 .coolsite.vip
 .cootekservice.com
+.cowlevel.net
 .cowtransfer.com
 .cppblog.com
 .cpppf.org
 .cqccn.com
 .cqvip.com
 .cr173.com
+.crashlytics.com
 .crggcn.com
 .crsky.com
 .cryuantafund.com
@@ -1099,6 +1123,7 @@ www.libvideo.com
 .dfham.com
 .dfkhgj.com
 .dginfo.com
+.dgjy.net
 .dgphospital.com
 .dgtle.com
 .dianchacha.com
@@ -1189,6 +1214,7 @@ www.libvideo.com
 .duoduocdn.com
 .duokan.com
 .duokanbox.com
+.duolabao.com
 .duomai.com
 .duoshuo.com
 .duote.com
@@ -1229,6 +1255,7 @@ www.libvideo.com
 .ecitic.com
 .ecitic.net
 .ecjobhome.com
+.ecloud-gdu.com
 .edu4399.com
 .eduei.com
 .eeyy.com
@@ -1237,7 +1264,6 @@ www.libvideo.com
 .elecfans.com
 .elemecdn.com
 .elong.com
-.elongstatic.com
 .emarbox.com
 .emas-poc.com
 .emerald.com
@@ -1263,6 +1289,7 @@ www.libvideo.com
 .exmailgz.com
 .expreview.com
 .extfans.com
+.ezpro.pro
 .f.cx
 .faceu.com
 .faceu.mobi
@@ -1275,10 +1302,13 @@ www.libvideo.com
 .fanxian.com
 .fastapi.net
 .fastcdn.com
+.fdcyun.com
 .feihuo.com
 .feiliao.com
 .feiniaomy.com
+.feishu.net
 .feishucdn.com
+.feishupkg.com
 .feizhu.com
 .feng.com
 .feng1.com
@@ -1307,6 +1337,7 @@ www.libvideo.com
 .flyert.com
 .fm3838.com
 .fofa.info
+.fofa.so
 .ford.com
 .foresightfund.com
 .founderff.com
@@ -1415,6 +1446,7 @@ www.libvideo.com
 .goofish.com
 .googletraveladservices.com
 .goosail.com
+.goproxy.io
 .goselling.com
 .goto-game.com
 .goto-game.mobi
@@ -1481,19 +1513,23 @@ www.libvideo.com
 .haosou.net
 .haote.com
 .haowu.link
+.haoyisheng.com
 .haoyouyinxiang.com
 .happyhlddz.com
 .harmonyos.com
 .hazq.com
+.hbooker.com
 .hczq.com
 .hdbits.org
 .hdchina.org
 .hdcmct.org
 .hddolby.com
 .hdhome.org
+.hdsky.me
 .hdslb.com
 .hdslb.org
 .hdyxgame.com
+.healthjd.com
 .heavenlywind.cc
 .hefei.cc
 .heisha.net
@@ -1562,6 +1598,7 @@ www.libvideo.com
 .hteacher.net
 .htsec.com
 .huajingsec.com
+.huangyuhui.net
 .huanqiu.com
 .huashengdaili.com
 .huatu.com
@@ -1712,6 +1749,7 @@ www.libvideo.com
 .images-amazon.com
 .imcapptest.com
 .imedao.com
+.imf.org
 .img4399.com
 .img4me.com
 .imgo.tv
@@ -1724,6 +1762,7 @@ www.libvideo.com
 .infinitynewtab.com
 .infoq.com
 .infoqstatic.com
+.inftab.com
 .intltencentcos.com
 .iop.org
 .ip-cdn.com
@@ -1734,6 +1773,8 @@ www.libvideo.com
 .ipinyou.com
 .ipip.net
 .ipplus360.com
+.iprdp.net
+.ipssh.net
 .ipv6-test.com
 .iq.com
 .iqiyi.com
@@ -1859,6 +1900,7 @@ www.libvideo.com
 .jdfw1.com
 .jdgslb.com
 .jdgslb.net
+.jdh.com
 .jdjinrong.com
 .jdl.com
 .jdpay.com
@@ -2006,6 +2048,7 @@ www.libvideo.com
 .kuaikanmanhua.com
 .kuaishou.com
 .kuaizhan.com
+.kuangxiangit.com
 .kugou.com
 .kumiao.com
 .kunlunaq.com
@@ -2081,6 +2124,7 @@ www.libvideo.com
 .lecloud.com
 .ledu.com
 .leetcode-cn.com
+.leigod.com
 .leikeji.com
 .leiphone.com
 .leiting.com
@@ -2093,7 +2137,6 @@ www.libvideo.com
 .letvcloud.com
 .letvimg.com
 .lf-rc1.yhgfb-cn-static.com
-.lgstatic.com
 .lhzq.com
 .liangxinyao.com
 .lianjia.com
@@ -2128,6 +2171,7 @@ www.libvideo.com
 .lizhi.io
 .lizhifm.com
 .ljcdn.com
+.lkcoffee.com
 .lkkbrand.com
 .llsapp.com
 .llscdn.com
@@ -2149,6 +2193,7 @@ www.libvideo.com
 .lsplayer.com
 .lu.com
 .lucifr.com
+.luckincoffeecdn.com
 .luckyair.net
 .ludashi.com
 .ludoworld.net
@@ -2185,6 +2230,7 @@ www.libvideo.com
 .maisanqi.com
 .maitix.com
 .mamecn.com
+.manhuagui.com
 .manhuatai.com
 .manmanbuy.com
 .manmankan.com
@@ -2207,6 +2253,7 @@ www.libvideo.com
 .mdeer.com
 .mdpda.com
 .me.com
+.me1.ltd
 .me4399.com
 .mechina.org
 .media.paperclipclub.net
@@ -2258,6 +2305,7 @@ www.libvideo.com
 .mikecrm.com
 .minapp.com
 .mincdn.com
+.mingyuanyun.com
 .minhangshi.com
 .minitiao.com
 .mipcdn.com
@@ -2333,10 +2381,12 @@ www.libvideo.com
 .myilibrary.com
 .myip.la
 .myoppo.com
+.mypaas.com
 .myqcloud.com
 .myshow360.net
 .mysiteres.com
 .myunlu.com
+.myypark.com
 .myyx618.com
 .myzaker.com
 .mzres.com
@@ -2380,7 +2430,6 @@ www.libvideo.com
 .nruan.com
 .ntalker.com
 .nuomi.com
-.nvidia.com
 .nvsheng.com
 .nx-sc.com
 .nzbdw.com
@@ -2459,10 +2508,6 @@ www.libvideo.com
 .paopaoche.net
 .papocket.com
 .passthepopcorn.me
-.paypal-mktg.com
-.paypal.com
-.paypal.me
-.paypalobjects.com
 .pc6.com
 .pcbeta.com
 .pchome.net
@@ -2480,6 +2525,7 @@ www.libvideo.com
 .piaoliang.com
 .pigai.org
 .pinduoduo.com
+.pinduoduo.net
 .pingan.com
 .pingan.com.hk
 .pingplusplus.com
@@ -2763,6 +2809,7 @@ www.libvideo.com
 .sjwyx.com
 .skycn.com
 .skysea.com
+.slk1.net
 .sllssrq.com
 .smartisan.com
 .smtcdns.com
@@ -2853,6 +2900,8 @@ www.libvideo.com
 .szhk.com
 .szzfgjj.com
 .t.tt
+.t00ls.cc
+.t00ls.net
 .t1y5.com
 .taihe.com
 .taihuoniao.com
@@ -2991,6 +3040,7 @@ www.libvideo.com
 .titanar.com
 .tivitv.com
 .tjjt360.com
+.tjstats.com
 .tjupt.org
 .tkhealthcare.com
 .tlgslb.com
@@ -3000,6 +3050,7 @@ www.libvideo.com
 .tmall.ru
 .tmalltv.com
 .tmcdn.net
+.tmjiasuqi.com
 .tmjl.ai
 .tmtpost.com
 .tmtsmartlife.com
@@ -3011,9 +3062,11 @@ www.libvideo.com
 .tongji.linezing.com
 .tongtaiamc.com
 .tongxianghuicn.com
+.tools.team
 .tophub.today
 .toplife.com
 .topthink.com
+.totheglory.im
 .touqikan.com
 .toursbms.com
 .toutiao.com
@@ -3059,6 +3112,7 @@ www.libvideo.com
 .txtyxg.com
 .txyscdn.com
 .txyscdn.net
+.u-cdn.net
 .u.tools
 .u17.com
 .u17i.com
@@ -3067,11 +3121,40 @@ www.libvideo.com
 .ubssdic.com
 .ubuntukylin.com
 .ucbug.com
+.ucgslb.com
+.ucgslb.info
+.ucgslb.net
+.ucgslb.top
+.ucloud-edm.com
+.ucloud365.com
+.ucloudadmin.com
+.ucloudapi.com
+.ucloudgda.com
+.ucloudnaming.com
+.ucloudnaming.info
+.ucloudnaming.net
+.ucloudoss.com
+.ucloudstack.com
+.ucloudstack.net
+.ucloudstor.com
+.ucloudufile.com
+.ucnaming.com
+.ucnaming.info
+.ucnaming.net
 .ucweb.com
 .udache.com
 .udacity.com
+.uewaf.com
 .ufileos.com
+.ugdtimg.com
 .uggame.com
+.ugslb.com
+.ugslb.info
+.ugslb.net
+.ugslb.top
+.ugslb2.net
+.uhasadmin.com
+.uiwow.com
 .ulikecam.com
 .um.run
 .umajor.net
@@ -3081,6 +3164,8 @@ www.libvideo.com
 .umsns.com
 .umtrack.com
 .un.org
+.unaming.info
+.unaming.net
 .uni-bielefeld.de
 .uning.com
 .unionpay.com
@@ -3100,6 +3185,8 @@ www.libvideo.com
 .urselect.com
 .urumqi-air.com
 .useso.com
+.uslk.net
+.uucl.vip
 .uuu9.com
 .uxengine.net
 .uyunad.com
@@ -3131,6 +3218,8 @@ www.libvideo.com
 .vip.com
 .vipdlt.com
 .vipexam.org
+.vipmro.com
+.vipmro.net
 .visualstudio.com
 .vmall.com
 .vmallres.com
@@ -3176,6 +3265,7 @@ www.libvideo.com
 .weidian.com
 .weilaicaijing.com
 .weilaiyunxiao.com
+.weiphone.com
 .weiphone.net
 .weixing.com
 .weiyangx.com
@@ -3330,6 +3420,7 @@ www.libvideo.com
 .xueyuanjun.com
 .xundupdf.com
 .xunlei.com
+.xunyou.com
 .xxsy.net
 .xxtmail.com
 .xycdn.com
@@ -3460,6 +3551,7 @@ www.libvideo.com
 .yximgs.com
 .yxwsgame.com
 .yy.com
+.yyds.co
 .yystatic.com
 .yytcdn.com
 .yzyxgame.com

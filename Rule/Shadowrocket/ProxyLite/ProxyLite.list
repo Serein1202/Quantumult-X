@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:10:57
-# DOMAIN: 18
+# UPDATED: 2023-05-31 02:13:30
+# DOMAIN: 23
 # DOMAIN-KEYWORD: 24
-# DOMAIN-SUFFIX: 831
+# DOMAIN-SUFFIX: 832
 # IP-CIDR: 94
-# USER-AGENT: 6
-# TOTAL: 973
+# USER-AGENT: 7
+# TOTAL: 980
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
@@ -18,10 +18,15 @@ DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,beta.music.apple.com
 DOMAIN,books.apple.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,disk.yandex.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,search.yahoo.co.jp
 DOMAIN,tv.apple.com
 DOMAIN,voice.telephony.goog
@@ -93,6 +98,8 @@ DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbtoystore.com
@@ -119,6 +126,7 @@ DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,bloglovin.com
@@ -381,7 +389,6 @@ DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
-DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,llnwd.net
@@ -420,6 +427,7 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
+DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,myteamspeak.com
@@ -463,7 +471,6 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,omny.fm
 DOMAIN-SUFFIX,ooyala.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,orkut.com
@@ -560,7 +567,6 @@ DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,shadowverse.jp
-DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,signal.org
@@ -887,6 +893,7 @@ USER-AGENT,PayPal*
 USER-AGENT,TikTok*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
+USER-AGENT,hearthstone*
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve

@@ -1,11 +1,11 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:51:26
-# HOST-SUFFIX: 278
+# UPDATED: 2023-06-05 02:11:43
+# HOST-SUFFIX: 304
 # IP-CIDR: 1
 # USER-AGENT: 1
-# TOTAL: 280
+# TOTAL: 306
 HOST-SUFFIX,2333333333333.com,ByteDance
 HOST-SUFFIX,365yg.com,ByteDance
 HOST-SUFFIX,activitybyte.com,ByteDance
@@ -17,11 +17,13 @@ HOST-SUFFIX,bcy.net,ByteDance
 HOST-SUFFIX,bcyimg.com,ByteDance
 HOST-SUFFIX,bdactivity.com,ByteDance
 HOST-SUFFIX,bdgslb.com,ByteDance
+HOST-SUFFIX,bds.snssdk.com,ByteDance
 HOST-SUFFIX,bdurl.net,ByteDance
 HOST-SUFFIX,bdxiguaimg.com,ByteDance
 HOST-SUFFIX,bdxiguastatic.com,ByteDance
 HOST-SUFFIX,betastar.cn,ByteDance
 HOST-SUFFIX,bqtalk.com,ByteDance
+HOST-SUFFIX,buydouke.com,ByteDance
 HOST-SUFFIX,byteac.com,ByteDance
 HOST-SUFFIX,byteactivity.com,ByteDance
 HOST-SUFFIX,bytecdn.cn,ByteDance
@@ -37,10 +39,12 @@ HOST-SUFFIX,bytedns.net,ByteDance
 HOST-SUFFIX,bytedns1.com,ByteDance
 HOST-SUFFIX,bytedns2.com,ByteDance
 HOST-SUFFIX,bytednsdoc.com,ByteDance
+HOST-SUFFIX,byteeffecttos.com,ByteDance
 HOST-SUFFIX,bytefcdn.com,ByteDance
 HOST-SUFFIX,bytegecko.com,ByteDance
 HOST-SUFFIX,bytegoofy.com,ByteDance
 HOST-SUFFIX,bytegslb.com,ByteDance
+HOST-SUFFIX,bytehwm.com,ByteDance
 HOST-SUFFIX,byteimg.com,ByteDance
 HOST-SUFFIX,bytelb.net,ByteDance
 HOST-SUFFIX,bytescm.com,ByteDance
@@ -54,6 +58,7 @@ HOST-SUFFIX,cdndns2.com,ByteDance
 HOST-SUFFIX,changdunovel.com,ByteDance
 HOST-SUFFIX,cookicut.com,ByteDance
 HOST-SUFFIX,csjplatform.com,ByteDance
+HOST-SUFFIX,ctobsnssdk.com,ByteDance
 HOST-SUFFIX,dailygn.com,ByteDance
 HOST-SUFFIX,dcarapi.com,ByteDance
 HOST-SUFFIX,dcarimg.com,ByteDance
@@ -63,10 +68,13 @@ HOST-SUFFIX,dcarvod.com,ByteDance
 HOST-SUFFIX,dcdapp.com,ByteDance
 HOST-SUFFIX,dongchedi.com,ByteDance
 HOST-SUFFIX,dongchediapp.com,ByteDance
+HOST-SUFFIX,doubao.cn,ByteDance
+HOST-SUFFIX,doubao.com,ByteDance
 HOST-SUFFIX,douyin.com,ByteDance
 HOST-SUFFIX,douyinact.com,ByteDance
 HOST-SUFFIX,douyinact.net,ByteDance
 HOST-SUFFIX,douyinclips.com,ByteDance
+HOST-SUFFIX,douyinec.com,ByteDance
 HOST-SUFFIX,douyinliving.com,ByteDance
 HOST-SUFFIX,douyinmusicclips.com,ByteDance
 HOST-SUFFIX,douyinmusicvideo.com,ByteDance
@@ -76,6 +84,12 @@ HOST-SUFFIX,dymusictape.com,ByteDance
 HOST-SUFFIX,dymusicvideo.com,ByteDance
 HOST-SUFFIX,dyshortvideo.com,ByteDance
 HOST-SUFFIX,dyvideotape.com,ByteDance
+HOST-SUFFIX,ecom-lightapp.com,ByteDance
+HOST-SUFFIX,ecombdapi.com,ByteDance
+HOST-SUFFIX,ecombdimg.com,ByteDance
+HOST-SUFFIX,ecombdstatic.com,ByteDance
+HOST-SUFFIX,ecombdvod.com,ByteDance
+HOST-SUFFIX,extlog.snssdk.com,ByteDance
 HOST-SUFFIX,faceu.com,ByteDance
 HOST-SUFFIX,faceu.com.cn,ByteDance
 HOST-SUFFIX,faceu.mobi,ByteDance
@@ -83,7 +97,9 @@ HOST-SUFFIX,faceu.net,ByteDance
 HOST-SUFFIX,feelgood.cn,ByteDance
 HOST-SUFFIX,feiliao.com,ByteDance
 HOST-SUFFIX,feishu.cn,ByteDance
+HOST-SUFFIX,feishu.net,ByteDance
 HOST-SUFFIX,feishucdn.com,ByteDance
+HOST-SUFFIX,feishupkg.com,ByteDance
 HOST-SUFFIX,fullluckcalendar.com,ByteDance
 HOST-SUFFIX,gifshow.com,ByteDance
 HOST-SUFFIX,gogokid.com,ByteDance
@@ -117,6 +133,7 @@ HOST-SUFFIX,huoshanxiaoshipin.net,ByteDance
 HOST-SUFFIX,huoshanzhibo.cn,ByteDance
 HOST-SUFFIX,huoshanzhibo.com,ByteDance
 HOST-SUFFIX,huoshanzhibo.net,ByteDance
+HOST-SUFFIX,i.snssdk.com,ByteDance
 HOST-SUFFIX,ibytedapm.com,ByteDance
 HOST-SUFFIX,icphoto.cn,ByteDance
 HOST-SUFFIX,idouyinpic.com,ByteDance
@@ -135,7 +152,10 @@ HOST-SUFFIX,ihst8.com,ByteDance
 HOST-SUFFIX,ihuoshanimg.com,ByteDance
 HOST-SUFFIX,ihuoshanvod.com,ByteDance
 HOST-SUFFIX,inluckcalendar.com,ByteDance
+HOST-SUFFIX,is.snssdk.com,ByteDance
 HOST-SUFFIX,ixgvideo.com,ByteDance
+HOST-SUFFIX,jinritemai-inc.com,ByteDance
+HOST-SUFFIX,jinritemai.com,ByteDance
 HOST-SUFFIX,jinritoutiao.com,ByteDance
 HOST-SUFFIX,jiyunhudong.cn,ByteDance
 HOST-SUFFIX,jiyunhudong.com,ByteDance
@@ -158,6 +178,8 @@ HOST-SUFFIX,lf-rc1.yhgfb-cn-static.com,ByteDance
 HOST-SUFFIX,luckforcalendar.com,ByteDance
 HOST-SUFFIX,luckincalendar.com,ByteDance
 HOST-SUFFIX,luckycalendar.cn,ByteDance
+HOST-SUFFIX,maidouke.com,ByteDance
+HOST-SUFFIX,mcs.snssdk.com,ByteDance
 HOST-SUFFIX,mobilelegends.com,ByteDance
 HOST-SUFFIX,moonton.com,ByteDance
 HOST-SUFFIX,muyewx.com,ByteDance
@@ -181,6 +203,7 @@ HOST-SUFFIX,pangolin-dsp-toutiao-b.com,ByteDance
 HOST-SUFFIX,pangolin-dsp-toutiao.com,ByteDance
 HOST-SUFFIX,pangolin-sdk-toutiao-b.com,ByteDance
 HOST-SUFFIX,pangolin-sdk-toutiao.com,ByteDance
+HOST-SUFFIX,pangolin.snssdk.com,ByteDance
 HOST-SUFFIX,panplayable-toutiao-b.com,ByteDance
 HOST-SUFFIX,panplayable-toutiao.com,ByteDance
 HOST-SUFFIX,pglstatp-toutiao-b.com,ByteDance
@@ -191,11 +214,13 @@ HOST-SUFFIX,qmoji.net,ByteDance
 HOST-SUFFIX,ribaoapi.com,ByteDance
 HOST-SUFFIX,ribaocdn.com,ByteDance
 HOST-SUFFIX,samasty.com,ByteDance
+HOST-SUFFIX,shoppingads.cn,ByteDance
 HOST-SUFFIX,smartisan.cn,ByteDance
 HOST-SUFFIX,smartisan.com,ByteDance
 HOST-SUFFIX,smartisanos.cn,ByteDance
 HOST-SUFFIX,smartisanos.com,ByteDance
 HOST-SUFFIX,tekkenthree.com,ByteDance
+HOST-SUFFIX,temaiapi.com,ByteDance
 HOST-SUFFIX,tetrisone.com,ByteDance
 HOST-SUFFIX,toscdn.com,ByteDance
 HOST-SUFFIX,toutiao11.com,ByteDance
@@ -239,6 +264,7 @@ HOST-SUFFIX,ulikecam.mobi,ByteDance
 HOST-SUFFIX,ulikecam.net,ByteDance
 HOST-SUFFIX,volccdn.com,ByteDance
 HOST-SUFFIX,volcdem.com,ByteDance
+HOST-SUFFIX,volcengine.com,ByteDance
 HOST-SUFFIX,woaihuoshan.com,ByteDance
 HOST-SUFFIX,wohst8.com,ByteDance
 HOST-SUFFIX,wtturl.cn,ByteDance

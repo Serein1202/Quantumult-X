@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-11 02:10:02
-# DOMAIN: 7
+# UPDATED: 2023-05-31 02:12:14
+# DOMAIN: 11
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24722
+# DOMAIN-SUFFIX: 5881
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# USER-AGENT: 8
-# TOTAL: 24859
+# USER-AGENT: 9
+# TOTAL: 6023
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -139,3 +139,4 @@ USER-AGENT,TikTok*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
 USER-AGENT,com.apple.trustd*
+USER-AGENT,hearthstone*
