@@ -1,11 +1,11 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-13 02:11:58
+# UPDATED: 2023-06-17 02:11:17
 # IP-ASN: 1216
-# IP-CIDR: 11820
-# IP-CIDR6: 5075
-# TOTAL: 18111
+# IP-CIDR: 11827
+# IP-CIDR6: 4903
+# TOTAL: 17946
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -139,6 +139,7 @@ IP-CIDR,1.92.222.224/27,no-resolve
 IP-CIDR,1.92.223.0/24,no-resolve
 IP-CIDR,1.92.224.0/19,no-resolve
 IP-CIDR,1.94.0.0/15,no-resolve
+IP-CIDR,1.94.0.0/18,no-resolve
 IP-CIDR,101.0.0.0/22,no-resolve
 IP-CIDR,101.101.100.0/24,no-resolve
 IP-CIDR,101.101.102.0/23,no-resolve
@@ -2084,13 +2085,17 @@ IP-CIDR,106.0.8.0/21,no-resolve
 IP-CIDR,106.108.0.0/14,no-resolve
 IP-CIDR,106.11.0.0/16,no-resolve
 IP-CIDR,106.112.0.0/12,no-resolve
+IP-CIDR,106.112.0.0/13,no-resolve
 IP-CIDR,106.118.0.0/18,no-resolve
 IP-CIDR,106.12.0.0/14,no-resolve
 IP-CIDR,106.12.192.0/18,no-resolve
+IP-CIDR,106.120.128.0/17,no-resolve
 IP-CIDR,106.120.192.0/18,no-resolve
 IP-CIDR,106.121.0.0/16,no-resolve
+IP-CIDR,106.122.0.0/15,no-resolve
 IP-CIDR,106.122.128.0/17,no-resolve
 IP-CIDR,106.123.0.0/16,no-resolve
+IP-CIDR,106.124.0.0/14,no-resolve
 IP-CIDR,106.124.128.0/19,no-resolve
 IP-CIDR,106.124.232.0/22,no-resolve
 IP-CIDR,106.124.248.0/21,no-resolve
@@ -8254,6 +8259,7 @@ IP-CIDR,204.178.67.0/24,no-resolve
 IP-CIDR,204.178.71.0/24,no-resolve
 IP-CIDR,204.55.160.0/24,no-resolve
 IP-CIDR,204.74.96.0/24,no-resolve
+IP-CIDR,206.119.190.0/23,no-resolve
 IP-CIDR,206.119.53.0/24,no-resolve
 IP-CIDR,206.206.126.0/24,no-resolve
 IP-CIDR,206.219.44.0/23,no-resolve
@@ -9869,6 +9875,7 @@ IP-CIDR,23.151.168.0/24,no-resolve
 IP-CIDR,23.236.64.0/25,no-resolve
 IP-CIDR,23.236.64.128/26,no-resolve
 IP-CIDR,23.236.64.192/27,no-resolve
+IP-CIDR,23.26.239.0/24,no-resolve
 IP-CIDR,23.26.98.0/24,no-resolve
 IP-CIDR,27.0.160.0/21,no-resolve
 IP-CIDR,27.0.188.0/22,no-resolve
@@ -10382,7 +10389,7 @@ IP-CIDR,43.229.236.0/22,no-resolve
 IP-CIDR,43.229.40.0/22,no-resolve
 IP-CIDR,43.229.56.0/22,no-resolve
 IP-CIDR,43.229.96.0/22,no-resolve
-IP-CIDR,43.230.11.0/24,no-resolve
+IP-CIDR,43.230.10.0/23,no-resolve
 IP-CIDR,43.230.124.0/22,no-resolve
 IP-CIDR,43.230.20.0/22,no-resolve
 IP-CIDR,43.230.32.0/22,no-resolve
