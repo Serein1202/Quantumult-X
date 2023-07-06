@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-27 02:12:19
+# UPDATED: 2023-07-05 02:11:52
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19152
+# DOMAIN-SUFFIX: 19156
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19461
+# TOTAL: 19465
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -2021,7 +2021,6 @@ payload:
   - '+.bestfreesexgames.com'
   - '+.bestfreetube.net'
   - '+.bestgames-2022.com'
-  - '+.bestgore.com'
   - '+.besthandjobporn.com'
   - '+.besthentaitube.com'
   - '+.bestiality.guru'
@@ -7222,6 +7221,7 @@ payload:
   - '+.k9vidz.com'
   - '+.kaamuu.com'
   - '+.kaggle.com'
+  - '+.kaggle.net'
   - '+.kaggleusercontent.com'
   - '+.kairakudoujin.net'
   - '+.kakaocorp.com'
@@ -13967,6 +13967,7 @@ payload:
   - '+.berlinerbericht.de'
   - '+.berm.co.nz'
   - '+.bestforchina.org'
+  - '+.bestgore.com'
   - '+.bestvpn.com'
   - '+.bestvpnanalysis.com'
   - '+.bestvpnserver.com'
@@ -14431,6 +14432,7 @@ payload:
   - '+.clinica-tibet.ru'
   - '+.clipfish.de'
   - '+.cloakpoint.com'
+  - '+.cloud.cupronickel.goog'
   - '+.cloudcone.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare.com'
@@ -14713,6 +14715,7 @@ payload:
   - '+.djangosnippets.org'
   - '+.djorz.com'
   - '+.dl-laby.jp'
+  - '+.dler.io'
   - '+.dlive.tv'
   - '+.dlsite.com'
   - '+.dlsite.jp'
@@ -17800,6 +17803,7 @@ payload:
   - '+.sis001.us'
   - '+.site2unblock.com'
   - '+.site90.net'
+  - '+.sitebro.tw'
   - '+.sitekreator.com'
   - '+.sitemaps.org'
   - '+.six-degrees.io'

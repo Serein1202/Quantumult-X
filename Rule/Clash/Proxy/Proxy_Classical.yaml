@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-31 02:12:14
+# UPDATED: 2023-07-05 02:12:10
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 5881
+# DOMAIN-SUFFIX: 5885
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 6014
+# TOTAL: 6018
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -541,6 +541,7 @@ payload:
   - DOMAIN-SUFFIX,berlinerbericht.de
   - DOMAIN-SUFFIX,berm.co.nz
   - DOMAIN-SUFFIX,bestforchina.org
+  - DOMAIN-SUFFIX,bestgore.com
   - DOMAIN-SUFFIX,bestvpn.com
   - DOMAIN-SUFFIX,bestvpnanalysis.com
   - DOMAIN-SUFFIX,bestvpnserver.com
@@ -1006,6 +1007,7 @@ payload:
   - DOMAIN-SUFFIX,clinica-tibet.ru
   - DOMAIN-SUFFIX,clipfish.de
   - DOMAIN-SUFFIX,cloakpoint.com
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -1288,6 +1290,7 @@ payload:
   - DOMAIN-SUFFIX,djangosnippets.org
   - DOMAIN-SUFFIX,djorz.com
   - DOMAIN-SUFFIX,dl-laby.jp
+  - DOMAIN-SUFFIX,dler.io
   - DOMAIN-SUFFIX,dlive.tv
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,dlsite.jp
@@ -4377,6 +4380,7 @@ payload:
   - DOMAIN-SUFFIX,sis001.us
   - DOMAIN-SUFFIX,site2unblock.com
   - DOMAIN-SUFFIX,site90.net
+  - DOMAIN-SUFFIX,sitebro.tw
   - DOMAIN-SUFFIX,sitekreator.com
   - DOMAIN-SUFFIX,sitemaps.org
   - DOMAIN-SUFFIX,six-degrees.io

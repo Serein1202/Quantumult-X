@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-27 02:12:19
+# UPDATED: 2023-07-05 02:11:52
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19152
+# DOMAIN-SUFFIX: 19156
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19461
+# TOTAL: 19465
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -2021,7 +2021,6 @@ payload:
   - DOMAIN-SUFFIX,bestfreesexgames.com
   - DOMAIN-SUFFIX,bestfreetube.net
   - DOMAIN-SUFFIX,bestgames-2022.com
-  - DOMAIN-SUFFIX,bestgore.com
   - DOMAIN-SUFFIX,besthandjobporn.com
   - DOMAIN-SUFFIX,besthentaitube.com
   - DOMAIN-SUFFIX,bestiality.guru
@@ -7222,6 +7221,7 @@ payload:
   - DOMAIN-SUFFIX,k9vidz.com
   - DOMAIN-SUFFIX,kaamuu.com
   - DOMAIN-SUFFIX,kaggle.com
+  - DOMAIN-SUFFIX,kaggle.net
   - DOMAIN-SUFFIX,kaggleusercontent.com
   - DOMAIN-SUFFIX,kairakudoujin.net
   - DOMAIN-SUFFIX,kakaocorp.com
@@ -13967,6 +13967,7 @@ payload:
   - DOMAIN-SUFFIX,berlinerbericht.de
   - DOMAIN-SUFFIX,berm.co.nz
   - DOMAIN-SUFFIX,bestforchina.org
+  - DOMAIN-SUFFIX,bestgore.com
   - DOMAIN-SUFFIX,bestvpn.com
   - DOMAIN-SUFFIX,bestvpnanalysis.com
   - DOMAIN-SUFFIX,bestvpnserver.com
@@ -14431,6 +14432,7 @@ payload:
   - DOMAIN-SUFFIX,clinica-tibet.ru
   - DOMAIN-SUFFIX,clipfish.de
   - DOMAIN-SUFFIX,cloakpoint.com
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -14713,6 +14715,7 @@ payload:
   - DOMAIN-SUFFIX,djangosnippets.org
   - DOMAIN-SUFFIX,djorz.com
   - DOMAIN-SUFFIX,dl-laby.jp
+  - DOMAIN-SUFFIX,dler.io
   - DOMAIN-SUFFIX,dlive.tv
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,dlsite.jp
@@ -17800,6 +17803,7 @@ payload:
   - DOMAIN-SUFFIX,sis001.us
   - DOMAIN-SUFFIX,site2unblock.com
   - DOMAIN-SUFFIX,site90.net
+  - DOMAIN-SUFFIX,sitebro.tw
   - DOMAIN-SUFFIX,sitekreator.com
   - DOMAIN-SUFFIX,sitemaps.org
   - DOMAIN-SUFFIX,six-degrees.io

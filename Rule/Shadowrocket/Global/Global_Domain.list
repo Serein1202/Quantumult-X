@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-27 02:12:19
+# UPDATED: 2023-07-04 02:10:42
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19152
+# DOMAIN-SUFFIX: 19156
 # IP-CIDR: 110
 # USER-AGENT: 46
-# TOTAL: 19506
+# TOTAL: 19510
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -4042,6 +4042,7 @@ www-cdn.icloud.com.akadns.net
 .clitgames.com
 .cloakpoint.com
 .clojure.org
+.cloud.cupronickel.goog
 .cloudapp.net
 .cloudappsecurity.com
 .cloudburstresearch.com
@@ -4958,6 +4959,7 @@ www-cdn.icloud.com.akadns.net
 .dl-laby.jp
 .dldlinks.com
 .dldshare.net
+.dler.io
 .dlercloud.com
 .dlercloud.me
 .dlercloud.org
@@ -9927,6 +9929,7 @@ www-cdn.icloud.com.akadns.net
 .kaamuu.com
 .kadokawa.co.jp
 .kaggle.com
+.kaggle.net
 .kaggleusercontent.com
 .kagyu.org
 .kagyu.org.za
@@ -15369,6 +15372,7 @@ www-cdn.icloud.com.akadns.net
 .site.com
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .sitepoint.com

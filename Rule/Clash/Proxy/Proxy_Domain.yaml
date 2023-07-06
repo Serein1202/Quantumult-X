@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-31 02:12:14
+# UPDATED: 2023-07-05 02:12:10
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 5881
+# DOMAIN-SUFFIX: 5885
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 6014
+# TOTAL: 6018
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -541,6 +541,7 @@ payload:
   - '+.berlinerbericht.de'
   - '+.berm.co.nz'
   - '+.bestforchina.org'
+  - '+.bestgore.com'
   - '+.bestvpn.com'
   - '+.bestvpnanalysis.com'
   - '+.bestvpnserver.com'
@@ -1006,6 +1007,7 @@ payload:
   - '+.clinica-tibet.ru'
   - '+.clipfish.de'
   - '+.cloakpoint.com'
+  - '+.cloud.cupronickel.goog'
   - '+.cloudcone.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare.com'
@@ -1288,6 +1290,7 @@ payload:
   - '+.djangosnippets.org'
   - '+.djorz.com'
   - '+.dl-laby.jp'
+  - '+.dler.io'
   - '+.dlive.tv'
   - '+.dlsite.com'
   - '+.dlsite.jp'
@@ -4377,6 +4380,7 @@ payload:
   - '+.sis001.us'
   - '+.site2unblock.com'
   - '+.site90.net'
+  - '+.sitebro.tw'
   - '+.sitekreator.com'
   - '+.sitemaps.org'
   - '+.six-degrees.io'
