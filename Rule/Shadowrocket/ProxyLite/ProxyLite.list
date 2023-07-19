@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-03 02:12:03
+# UPDATED: 2023-07-14 02:13:09
 # DOMAIN: 23
 # DOMAIN-KEYWORD: 24
 # DOMAIN-SUFFIX: 834
-# IP-CIDR: 94
+# IP-CIDR: 93
 # USER-AGENT: 7
-# TOTAL: 982
+# TOTAL: 981
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
@@ -944,7 +944,6 @@ IP-CIDR,180.163.150.162/32,no-resolve
 IP-CIDR,180.163.150.34/32,no-resolve
 IP-CIDR,180.163.151.162/32,no-resolve
 IP-CIDR,180.163.151.34/32,no-resolve
-IP-CIDR,183.131.48.0/20,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve

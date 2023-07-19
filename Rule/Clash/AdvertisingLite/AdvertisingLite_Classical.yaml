@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-22 02:07:11
+# UPDATED: 2023-07-16 02:07:20
 # DOMAIN: 23677
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13733
+# DOMAIN-SUFFIX: 13751
 # IP-CIDR: 184
-# TOTAL: 37621
+# TOTAL: 37639
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25111,7 +25111,9 @@ payload:
   - DOMAIN-SUFFIX,adbs.ximalaya.com
   - DOMAIN-SUFFIX,adbuyer3.lycos.com
   - DOMAIN-SUFFIX,adbxb.com
-  - DOMAIN-SUFFIX,adc-js.nine.com.au
+  - DOMAIN-SUFFIX,adc.9news.com.au
+  - DOMAIN-SUFFIX,adc.api.nine.com.au
+  - DOMAIN-SUFFIX,adc.nine.com.au
   - DOMAIN-SUFFIX,adcast.deviantart.com
   - DOMAIN-SUFFIX,adcast.fblife.com
   - DOMAIN-SUFFIX,adccoo.cn
@@ -25505,6 +25507,7 @@ payload:
   - DOMAIN-SUFFIX,affiliates.mozy.com
   - DOMAIN-SUFFIX,affiliates.myfax.com
   - DOMAIN-SUFFIX,affiliates.thrixxx.com
+  - DOMAIN-SUFFIX,affiliates.treasureisland.com
   - DOMAIN-SUFFIX,affiliatesmedia.sbobet.com
   - DOMAIN-SUFFIX,affiliation.fotovista.com
   - DOMAIN-SUFFIX,afj0.com
@@ -25558,6 +25561,7 @@ payload:
   - DOMAIN-SUFFIX,ahyuns.com
   - DOMAIN-SUFFIX,ai.bioon.com
   - DOMAIN-SUFFIX,ai.inmdata.io
+  - DOMAIN-SUFFIX,ai.iol.io
   - DOMAIN-SUFFIX,ai.m.taobao.com
   - DOMAIN-SUFFIX,ai.taobao.com
   - DOMAIN-SUFFIX,ai.yimg.jp
@@ -25704,6 +25708,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.cynapse.com
   - DOMAIN-SUFFIX,analytics.datahc.com
   - DOMAIN-SUFFIX,analytics.dol.gr
+  - DOMAIN-SUFFIX,analytics.ecosia.org
   - DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
   - DOMAIN-SUFFIX,analytics.epi.es
   - DOMAIN-SUFFIX,analytics.fairfax.com.au
@@ -26820,6 +26825,7 @@ payload:
   - DOMAIN-SUFFIX,carbonads.net
   - DOMAIN-SUFFIX,cardmrket.com
   - DOMAIN-SUFFIX,caredaily.me
+  - DOMAIN-SUFFIX,carl.pubsvs.com
   - DOMAIN-SUFFIX,carpenterrprp.com
   - DOMAIN-SUFFIX,carutinv.com
   - DOMAIN-SUFFIX,cas.clickability.com
@@ -27245,6 +27251,7 @@ payload:
   - DOMAIN-SUFFIX,cnshef.com
   - DOMAIN-SUFFIX,cnsjx.net
   - DOMAIN-SUFFIX,cnt.nicemix.com
+  - DOMAIN-SUFFIX,cnt.nuvid.com
   - DOMAIN-SUFFIX,cnt2.stroeerdp.de
   - DOMAIN-SUFFIX,cnxad.com
   - DOMAIN-SUFFIX,cnxad.net
@@ -27734,7 +27741,6 @@ payload:
   - DOMAIN-SUFFIX,damelaurig.info
   - DOMAIN-SUFFIX,dami66.cn
   - DOMAIN-SUFFIX,damiren.com
-  - DOMAIN-SUFFIX,dampdock.com
   - DOMAIN-SUFFIX,damumu.xyz
   - DOMAIN-SUFFIX,danangmo.cn
   - DOMAIN-SUFFIX,dandan11.top
@@ -28584,6 +28590,7 @@ payload:
   - DOMAIN-SUFFIX,eva.ucas.com
   - DOMAIN-SUFFIX,evefashion.cn
   - DOMAIN-SUFFIX,event-analytics.yesware.com
+  - DOMAIN-SUFFIX,event-api.contactatonce.co.uk
   - DOMAIN-SUFFIX,event-api.contactatonce.com.au
   - DOMAIN-SUFFIX,event-collector.udsrv.com
   - DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
@@ -29131,6 +29138,7 @@ payload:
   - DOMAIN-SUFFIX,geepwnfly.club
   - DOMAIN-SUFFIX,geili.co
   - DOMAIN-SUFFIX,geiyujieda.com
+  - DOMAIN-SUFFIX,gekko.spiceworks.com
   - DOMAIN-SUFFIX,gelinboer.cn
   - DOMAIN-SUFFIX,gen.alicdn.com
   - DOMAIN-SUFFIX,gen.etherscan.io
@@ -29168,6 +29176,7 @@ payload:
   - DOMAIN-SUFFIX,geoip.pennlive.com
   - DOMAIN-SUFFIX,geoip.silive.com
   - DOMAIN-SUFFIX,geoip.syracuse.com
+  - DOMAIN-SUFFIX,geoip.viamichelin.com
   - DOMAIN-SUFFIX,georgias.cn
   - DOMAIN-SUFFIX,geoshopping.nzherald.co.nz
   - DOMAIN-SUFFIX,gepush.com
@@ -32372,6 +32381,7 @@ payload:
   - DOMAIN-SUFFIX,nlyjs2015.com
   - DOMAIN-SUFFIX,nlzq888.com
   - DOMAIN-SUFFIX,nlzz7a3md4sx.com
+  - DOMAIN-SUFFIX,nm.newegg.com
   - DOMAIN-SUFFIX,nmbtedu.com
   - DOMAIN-SUFFIX,nmeithybnvik.com
   - DOMAIN-SUFFIX,nmkgs.cn
@@ -32629,6 +32639,7 @@ payload:
   - DOMAIN-SUFFIX,optaim.com
   - DOMAIN-SUFFIX,optimix.asia
   - DOMAIN-SUFFIX,optimix.cn
+  - DOMAIN-SUFFIX,optimize-stats.voxmedia.com
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,optimizelyapis.com
   - DOMAIN-SUFFIX,optimus-ads.amap.com
@@ -32882,7 +32893,6 @@ payload:
   - DOMAIN-SUFFIX,petsheying.com
   - DOMAIN-SUFFIX,pf-2.pchome.net
   - DOMAIN-SUFFIX,pf.h5game.cn
-  - DOMAIN-SUFFIX,pf.newegg.com
   - DOMAIN-SUFFIX,pf.pchome.net
   - DOMAIN-SUFFIX,pffw8mgd.com
   - DOMAIN-SUFFIX,pfp.sina.com.cn
@@ -33488,6 +33498,7 @@ payload:
   - DOMAIN-SUFFIX,r.mail.163.com
   - DOMAIN-SUFFIX,r.mail.ru
   - DOMAIN-SUFFIX,r.msn.com
+  - DOMAIN-SUFFIX,r.my.com
   - DOMAIN-SUFFIX,r.myadx.net
   - DOMAIN-SUFFIX,r.ow.0.0.0.0.cn
   - DOMAIN-SUFFIX,r.pixgold.com
@@ -34640,6 +34651,7 @@ payload:
   - DOMAIN-SUFFIX,stats.blogg.se
   - DOMAIN-SUFFIX,stats.bmw.de
   - DOMAIN-SUFFIX,stats.buzzea.com
+  - DOMAIN-SUFFIX,stats.cardschat.com
   - DOMAIN-SUFFIX,stats.cdn.pfn.bz
   - DOMAIN-SUFFIX,stats.cheddar.com
   - DOMAIN-SUFFIX,stats.chinaz.com
@@ -34648,6 +34660,7 @@ payload:
   - DOMAIN-SUFFIX,stats.clickability.com
   - DOMAIN-SUFFIX,stats.cloudwp.io
   - DOMAIN-SUFFIX,stats.developingperspective.com
+  - DOMAIN-SUFFIX,stats.dice.com
   - DOMAIN-SUFFIX,stats.digg.com
   - DOMAIN-SUFFIX,stats.dmp.ghac.cn
   - DOMAIN-SUFFIX,stats.dnaindia.com
@@ -34667,6 +34680,7 @@ payload:
   - DOMAIN-SUFFIX,stats.opoloo.de
   - DOMAIN-SUFFIX,stats.oui.sncf
   - DOMAIN-SUFFIX,stats.pandora.com
+  - DOMAIN-SUFFIX,stats.paste2.org
   - DOMAIN-SUFFIX,stats.piaggio.com
   - DOMAIN-SUFFIX,stats.propublica.org
   - DOMAIN-SUFFIX,stats.pusher.com
@@ -34683,6 +34697,7 @@ payload:
   - DOMAIN-SUFFIX,stats.uswitch.com
   - DOMAIN-SUFFIX,stats.videodelivery.net
   - DOMAIN-SUFFIX,stats.visistat.com
+  - DOMAIN-SUFFIX,stats.vulture.com
   - DOMAIN-SUFFIX,stats.wwd.com
   - DOMAIN-SUFFIX,stats.yinyuetai.com
   - DOMAIN-SUFFIX,stats.ynet.co.il
@@ -35916,6 +35931,7 @@ payload:
   - DOMAIN-SUFFIX,visit.dealspwn.com
   - DOMAIN-SUFFIX,visit.geocities.com
   - DOMAIN-SUFFIX,visit.mobot.net
+  - DOMAIN-SUFFIX,visit.theglobeandmail.com
   - DOMAIN-SUFFIX,visitors.sourcingmap.com
   - DOMAIN-SUFFIX,vista.tgbus.com
   - DOMAIN-SUFFIX,vista.tgbusdata.cn
@@ -36021,6 +36037,7 @@ payload:
   - DOMAIN-SUFFIX,wa.gtimg.com
   - DOMAIN-SUFFIX,wa.kuwo.cn
   - DOMAIN-SUFFIX,wa.metro.co.uk
+  - DOMAIN-SUFFIX,wa.ui-portal.de
   - DOMAIN-SUFFIX,waby66.cn
   - DOMAIN-SUFFIX,wacc888.com
   - DOMAIN-SUFFIX,wacucmiy.net
@@ -36349,6 +36366,7 @@ payload:
   - DOMAIN-SUFFIX,wt.adtrue24.com
   - DOMAIN-SUFFIX,wtcpm.com
   - DOMAIN-SUFFIX,wth.lenovomm.com
+  - DOMAIN-SUFFIX,wtk.db.com
   - DOMAIN-SUFFIX,wtpn.twenga.co.uk
   - DOMAIN-SUFFIX,wtpn.twenga.de
   - DOMAIN-SUFFIX,wtrace.cmgame.com

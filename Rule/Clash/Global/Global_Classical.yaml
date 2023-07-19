@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-05 02:11:52
+# UPDATED: 2023-07-14 02:11:38
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19156
-# IP-CIDR: 106
+# DOMAIN-SUFFIX: 19159
+# IP-CIDR: 105
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19465
+# TOTAL: 19467
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -7862,6 +7862,8 @@ payload:
   - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
+  - DOMAIN-SUFFIX,mdnplay.dev
+  - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,meadjohnson.com
@@ -10690,6 +10692,7 @@ payload:
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,seiroganmania.com
   - DOMAIN-SUFFIX,seiron-sankei.com
+  - DOMAIN-SUFFIX,sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,selectanescort.com
   - DOMAIN-SUFFIX,selectyourgame.com
   - DOMAIN-SUFFIX,selfloversworld.com
@@ -19414,7 +19417,6 @@ payload:
   - IP-CIDR,180.163.150.34/32
   - IP-CIDR,180.163.151.162/32
   - IP-CIDR,180.163.151.34/32
-  - IP-CIDR,183.131.48.0/20
   - IP-CIDR,184.173.128.0/17
   - IP-CIDR,185.60.216.0/22
   - IP-CIDR,185.76.151.0/24

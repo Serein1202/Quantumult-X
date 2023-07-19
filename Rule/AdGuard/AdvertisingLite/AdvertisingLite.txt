@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-07-06 02:07:50
-! Total: 37410
+! Updated: 2023-07-19 02:07:29
+! Total: 37428
 
 
 ||00-gov.cn^
@@ -2664,9 +2664,11 @@
 ||adbuyer.com^
 ||adbuyer3.lycos.com^
 ||adbxb.com^
-||adc-js.nine.com.au^
 ||adc-serv.net^
+||adc.9news.com.au^
+||adc.api.nine.com.au^
 ||adc.hpplay.cn^
+||adc.nine.com.au^
 ||adcade.com^
 ||adcalm.com^
 ||adcamel.pw^
@@ -3945,6 +3947,7 @@
 ||affiliates.myfax.com^
 ||affiliates.purevpn.com^
 ||affiliates.thrixxx.com^
+||affiliates.treasureisland.com^
 ||affiliatesensor.com^
 ||affiliatesmedia.sbobet.com^
 ||affiliatewindow.com^
@@ -4124,6 +4127,7 @@
 ||ahyuns.com^
 ||ai.bioon.com^
 ||ai.inmdata.io^
+||ai.iol.io^
 ||ai.m.taobao.com^
 ||ai.taobao.com^
 ||ai.yimg.jp^
@@ -4521,6 +4525,7 @@
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
 ||analytics.dol.gr^
+||analytics.ecosia.org^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
 ||analytics.eip.telegraph.co.uk^
@@ -7406,6 +7411,7 @@
 ||cardniu.com^
 ||caredaily.me^
 ||caringzinc.com^
+||carl.pubsvs.com^
 ||carpenterrprp.com^
 ||carrotquest.io^
 ||cars.fyidriving.com^
@@ -8449,6 +8455,7 @@
 ||cnstats.ru^
 ||cnt.my^
 ||cnt.nicemix.com^
+||cnt.nuvid.com^
 ||cnt1.net^
 ||cnt2.stroeerdp.de^
 ||cntdy.mobi^
@@ -9875,7 +9882,6 @@
 ||dami66.cn^
 ||damihyugqet.com^
 ||damiren.com^
-||dampdock.com^
 ||damumu.xyz^
 ||dana123.com^
 ||danangmo.cn^
@@ -12314,6 +12320,7 @@
 ||evefashion.cn^
 ||evenexcite.com^
 ||event-analytics.yesware.com^
+||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
 ||event-collector.udsrv.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -13890,6 +13897,7 @@
 ||geili.co^
 ||geistm.com^
 ||geiyujieda.com^
+||gekko.spiceworks.com^
 ||gelbitelf.club^
 ||gelinboer.cn^
 ||gemius.pl^
@@ -13962,6 +13970,7 @@
 ||geoip.pennlive.com^
 ||geoip.silive.com^
 ||geoip.syracuse.com^
+||geoip.viamichelin.com^
 ||geojs.io^
 ||geolid.com^
 ||geoplugin.net^
@@ -22689,6 +22698,7 @@
 ||nlyjs2015.com^
 ||nlzq888.com^
 ||nlzz7a3md4sx.com^
+||nm.newegg.com^
 ||nmbtedu.com^
 ||nmcdn.us^
 ||nmdvagwi.com^
@@ -23614,6 +23624,7 @@
 ||optimix.asia^
 ||optimix.cn^
 ||optimization-methods.com^
+||optimize-stats.voxmedia.com^
 ||optimizely.appspot.com^
 ||optimizely.com^
 ||optimizelyapis.com^
@@ -24353,7 +24364,6 @@
 ||pezrphjl.com^
 ||pf-2.pchome.net^
 ||pf.h5game.cn^
-||pf.newegg.com^
 ||pf.pchome.net^
 ||pfcjhjogq.com^
 ||pfdctvdgjw.com^
@@ -26402,6 +26412,7 @@
 ||r.mobpartner.mobi^
 ||r.movad.de^
 ||r.msn.com^
+||r.my.com^
 ||r.myadx.net^
 ||r.ow.0.0.0.0.cn^
 ||r.pixgold.com^
@@ -29758,6 +29769,7 @@
 ||stats.blogg.se^
 ||stats.bmw.de^
 ||stats.buzzea.com^
+||stats.cardschat.com^
 ||stats.cdn.pfn.bz^
 ||stats.cheddar.com^
 ||stats.chinaz.com^
@@ -29769,6 +29781,7 @@
 ||stats.cz^
 ||stats.de^
 ||stats.developingperspective.com^
+||stats.dice.com^
 ||stats.digg.com^
 ||stats.dmp.ghac.cn^
 ||stats.dnaindia.com^
@@ -29792,6 +29805,7 @@
 ||stats.opoloo.de^
 ||stats.oui.sncf^
 ||stats.pandora.com^
+||stats.paste2.org^
 ||stats.pflexads.com^
 ||stats.piaggio.com^
 ||stats.propublica.org^
@@ -29810,6 +29824,7 @@
 ||stats.v.duowan.com^
 ||stats.videodelivery.net^
 ||stats.visistat.com^
+||stats.vulture.com^
 ||stats.webstarts.com^
 ||stats.wwd.com^
 ||stats.yinyuetai.com^
@@ -33319,6 +33334,7 @@
 ||visit.dealspwn.com^
 ||visit.geocities.com^
 ||visit.mobot.net^
+||visit.theglobeandmail.com^
 ||visitor-analytics.io^
 ||visitor-analytics.net^
 ||visitor-service.tealiumiq.com^
@@ -33727,6 +33743,7 @@
 ||wa.gtimg.com^
 ||wa.kuwo.cn^
 ||wa.metro.co.uk^
+||wa.ui-portal.de^
 ||wa4etw9l.top^
 ||waavnpkn.com^
 ||waby66.cn^
@@ -34633,6 +34650,7 @@
 ||wth.lenovomm.com^
 ||wthormvztq.com^
 ||wtjcqntwdtgs.com^
+||wtk.db.com^
 ||wtm.monitoringservice.co^
 ||wtmokqxhcormc.com^
 ||wtmtrack.com^

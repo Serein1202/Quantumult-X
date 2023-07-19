@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-22 02:07:11
+# UPDATED: 2023-07-16 02:07:20
 # DOMAIN: 23677
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13733
+# DOMAIN-SUFFIX: 13751
 # IP-CIDR: 184
-# TOTAL: 37621
+# TOTAL: 37639
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -25110,7 +25110,9 @@ zzxosget.com
 .adbs.ximalaya.com
 .adbuyer3.lycos.com
 .adbxb.com
-.adc-js.nine.com.au
+.adc.9news.com.au
+.adc.api.nine.com.au
+.adc.nine.com.au
 .adcast.deviantart.com
 .adcast.fblife.com
 .adccoo.cn
@@ -25504,6 +25506,7 @@ zzxosget.com
 .affiliates.mozy.com
 .affiliates.myfax.com
 .affiliates.thrixxx.com
+.affiliates.treasureisland.com
 .affiliatesmedia.sbobet.com
 .affiliation.fotovista.com
 .afj0.com
@@ -25557,6 +25560,7 @@ zzxosget.com
 .ahyuns.com
 .ai.bioon.com
 .ai.inmdata.io
+.ai.iol.io
 .ai.m.taobao.com
 .ai.taobao.com
 .ai.yimg.jp
@@ -25703,6 +25707,7 @@ zzxosget.com
 .analytics.cynapse.com
 .analytics.datahc.com
 .analytics.dol.gr
+.analytics.ecosia.org
 .analytics.eip.telegraph.co.uk
 .analytics.epi.es
 .analytics.fairfax.com.au
@@ -26819,6 +26824,7 @@ zzxosget.com
 .carbonads.net
 .cardmrket.com
 .caredaily.me
+.carl.pubsvs.com
 .carpenterrprp.com
 .carutinv.com
 .cas.clickability.com
@@ -27244,6 +27250,7 @@ zzxosget.com
 .cnshef.com
 .cnsjx.net
 .cnt.nicemix.com
+.cnt.nuvid.com
 .cnt2.stroeerdp.de
 .cnxad.com
 .cnxad.net
@@ -27733,7 +27740,6 @@ zzxosget.com
 .damelaurig.info
 .dami66.cn
 .damiren.com
-.dampdock.com
 .damumu.xyz
 .danangmo.cn
 .dandan11.top
@@ -28583,6 +28589,7 @@ zzxosget.com
 .eva.ucas.com
 .evefashion.cn
 .event-analytics.yesware.com
+.event-api.contactatonce.co.uk
 .event-api.contactatonce.com.au
 .event-collector.udsrv.com
 .event-reporting-dot-webylytics.appspot.com
@@ -29130,6 +29137,7 @@ zzxosget.com
 .geepwnfly.club
 .geili.co
 .geiyujieda.com
+.gekko.spiceworks.com
 .gelinboer.cn
 .gen.alicdn.com
 .gen.etherscan.io
@@ -29167,6 +29175,7 @@ zzxosget.com
 .geoip.pennlive.com
 .geoip.silive.com
 .geoip.syracuse.com
+.geoip.viamichelin.com
 .georgias.cn
 .geoshopping.nzherald.co.nz
 .gepush.com
@@ -32371,6 +32380,7 @@ zzxosget.com
 .nlyjs2015.com
 .nlzq888.com
 .nlzz7a3md4sx.com
+.nm.newegg.com
 .nmbtedu.com
 .nmeithybnvik.com
 .nmkgs.cn
@@ -32628,6 +32638,7 @@ zzxosget.com
 .optaim.com
 .optimix.asia
 .optimix.cn
+.optimize-stats.voxmedia.com
 .optimizely.com
 .optimizelyapis.com
 .optimus-ads.amap.com
@@ -32881,7 +32892,6 @@ zzxosget.com
 .petsheying.com
 .pf-2.pchome.net
 .pf.h5game.cn
-.pf.newegg.com
 .pf.pchome.net
 .pffw8mgd.com
 .pfp.sina.com.cn
@@ -33487,6 +33497,7 @@ zzxosget.com
 .r.mail.163.com
 .r.mail.ru
 .r.msn.com
+.r.my.com
 .r.myadx.net
 .r.ow.0.0.0.0.cn
 .r.pixgold.com
@@ -34639,6 +34650,7 @@ zzxosget.com
 .stats.blogg.se
 .stats.bmw.de
 .stats.buzzea.com
+.stats.cardschat.com
 .stats.cdn.pfn.bz
 .stats.cheddar.com
 .stats.chinaz.com
@@ -34647,6 +34659,7 @@ zzxosget.com
 .stats.clickability.com
 .stats.cloudwp.io
 .stats.developingperspective.com
+.stats.dice.com
 .stats.digg.com
 .stats.dmp.ghac.cn
 .stats.dnaindia.com
@@ -34666,6 +34679,7 @@ zzxosget.com
 .stats.opoloo.de
 .stats.oui.sncf
 .stats.pandora.com
+.stats.paste2.org
 .stats.piaggio.com
 .stats.propublica.org
 .stats.pusher.com
@@ -34682,6 +34696,7 @@ zzxosget.com
 .stats.uswitch.com
 .stats.videodelivery.net
 .stats.visistat.com
+.stats.vulture.com
 .stats.wwd.com
 .stats.yinyuetai.com
 .stats.ynet.co.il
@@ -35915,6 +35930,7 @@ zzxosget.com
 .visit.dealspwn.com
 .visit.geocities.com
 .visit.mobot.net
+.visit.theglobeandmail.com
 .visitors.sourcingmap.com
 .vista.tgbus.com
 .vista.tgbusdata.cn
@@ -36020,6 +36036,7 @@ zzxosget.com
 .wa.gtimg.com
 .wa.kuwo.cn
 .wa.metro.co.uk
+.wa.ui-portal.de
 .waby66.cn
 .wacc888.com
 .wacucmiy.net
@@ -36348,6 +36365,7 @@ zzxosget.com
 .wt.adtrue24.com
 .wtcpm.com
 .wth.lenovomm.com
+.wtk.db.com
 .wtpn.twenga.co.uk
 .wtpn.twenga.de
 .wtrace.cmgame.com

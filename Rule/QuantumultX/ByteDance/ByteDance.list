@@ -1,11 +1,11 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-22 02:11:29
-# HOST-SUFFIX: 303
+# UPDATED: 2023-07-10 02:11:05
+# HOST-SUFFIX: 304
 # IP-CIDR: 1
 # USER-AGENT: 1
-# TOTAL: 305
+# TOTAL: 306
 HOST-SUFFIX,2333333333333.com,ByteDance
 HOST-SUFFIX,365yg.com,ByteDance
 HOST-SUFFIX,activitybyte.com,ByteDance
@@ -45,6 +45,7 @@ HOST-SUFFIX,bytegoofy.com,ByteDance
 HOST-SUFFIX,bytegslb.com,ByteDance
 HOST-SUFFIX,bytehwm.com,ByteDance
 HOST-SUFFIX,byteimg.com,ByteDance
+HOST-SUFFIX,byteintl.net,ByteDance
 HOST-SUFFIX,bytelb.net,ByteDance
 HOST-SUFFIX,bytescm.com,ByteDance
 HOST-SUFFIX,bytesfield.com,ByteDance
