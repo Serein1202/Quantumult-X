@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-19 02:12:31
-# DOMAIN: 176
+# UPDATED: 2023-07-20 23:23:40
+# DOMAIN: 179
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
 # IP-CIDR: 7
 # IP-CIDR6: 2
-# TOTAL: 306
+# TOTAL: 309
 payload:
   - DOMAIN,107.182.30.76.16clouds.com
   - DOMAIN,1337.abcvg.info
@@ -38,7 +38,6 @@ payload:
   - DOMAIN,fe.dealclub.de
   - DOMAIN,fh2.cmp-gaming.com
   - DOMAIN,free.publictracker.xyz
-  - DOMAIN,freedomalternative.com
   - DOMAIN,globalwave.no-ip.org
   - DOMAIN,htz3.noho.st
   - DOMAIN,hub.bugout.link
@@ -62,9 +61,9 @@ payload:
   - DOMAIN,oh.fuuuuuck.com
   - DOMAIN,open-v6.demonoid.ch
   - DOMAIN,open.acgnxtracker.com
-  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.u-p.pw
@@ -77,6 +76,7 @@ payload:
   - DOMAIN,psyco.fr
   - DOMAIN,public-tracker.cf
   - DOMAIN,public.publictracker.xyz
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
@@ -85,6 +85,7 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,sanincode.com
   - DOMAIN,share.camoe.cn
+  - DOMAIN,shubt.net
   - DOMAIN,soundmovie.ru
   - DOMAIN,ssb14.nohost.me
   - DOMAIN,static.54.161.216.95.clients.your-server.de
@@ -174,8 +175,10 @@ payload:
   - DOMAIN,trackers.mlsub.net
   - DOMAIN,ts.populargamers.co.za
   - DOMAIN,ttk2.nbaonlineservice.com
+  - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,uploads.gamecoast.net
   - DOMAIN,v1046920.hosted-by-vdsina.ru
+  - DOMAIN,v2.iperson.xyz
   - DOMAIN,v6-tracker.0g.cx
   - DOMAIN,vm3268418.24ssd.had.wf
   - DOMAIN,wepzone.net

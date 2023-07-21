@@ -1,10 +1,10 @@
 # NAME: IPTVMainland
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:23:57
-# DOMAIN: 998
-# IP-CIDR: 1332
-# TOTAL: 2330
+# UPDATED: 2023-07-20 23:25:16
+# DOMAIN: 997
+# IP-CIDR: 1321
+# TOTAL: 2318
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,1.cache.applinzi.com
 DOMAIN,12371alic.v.myalicdn.com
@@ -87,7 +87,6 @@ DOMAIN,bbstv.clouducs.com
 DOMAIN,bililive.kksmg.com
 DOMAIN,bktvplay.gdnewmedia.cc
 DOMAIN,bl.ainaxi.cn
-DOMAIN,brics.bonus-tv.ru
 DOMAIN,bst.broadcast.live.bestvcdn.com.cn
 DOMAIN,bsyll.qingk.cn
 DOMAIN,cast.news98.com.tw
@@ -2166,9 +2165,8 @@ IP-CIDR,239.76.255.96/32,no-resolve
 IP-CIDR,239.93.42.49/32,no-resolve
 IP-CIDR,239.93.42.50/31,no-resolve
 IP-CIDR,239.93.42.52/32,no-resolve
-IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb03/128,no-resolve
+IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb02/127,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb05/128,no-resolve
-IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb07/128,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb08/126,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb0e/128,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb10/126,no-resolve
@@ -2180,16 +2178,6 @@ IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb21/128,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb22/127,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb24/128,no-resolve
 IP-CIDR,2409:8087:2001:20:2800:0:df6e:eb26/127,no-resolve
-IP-CIDR,2409:8087:4400:20:1:a0f:11:9/128,no-resolve
-IP-CIDR,2409:8087:4400:20:1:a0f:12:2e/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:14/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:2f/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:38/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:3b/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:3d/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:41/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:43/128,no-resolve
-IP-CIDR,2409:8087:4402:20:1:1216:401:46/128,no-resolve
 IP-CIDR,27.223.123.247/32,no-resolve
 IP-CIDR,36.159.12.236/32,no-resolve
 IP-CIDR,37.48.83.34/32,no-resolve

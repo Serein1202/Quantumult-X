@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-19 02:12:31
-# HOST: 176
+# UPDATED: 2023-07-20 23:23:40
+# HOST: 179
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
 # IP-CIDR: 7
 # IP6-CIDR: 2
-# TOTAL: 306
+# TOTAL: 309
 HOST,107.182.30.76.16clouds.com,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -37,7 +37,6 @@ HOST,explodie.org,PrivateTracker
 HOST,fe.dealclub.de,PrivateTracker
 HOST,fh2.cmp-gaming.com,PrivateTracker
 HOST,free.publictracker.xyz,PrivateTracker
-HOST,freedomalternative.com,PrivateTracker
 HOST,globalwave.no-ip.org,PrivateTracker
 HOST,htz3.noho.st,PrivateTracker
 HOST,hub.bugout.link,PrivateTracker
@@ -61,9 +60,9 @@ HOST,odd-hd.fr,PrivateTracker
 HOST,oh.fuuuuuck.com,PrivateTracker
 HOST,open-v6.demonoid.ch,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
-HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
+HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
 HOST,open.u-p.pw,PrivateTracker
@@ -76,6 +75,7 @@ HOST,private.anonseed.com,PrivateTracker
 HOST,psyco.fr,PrivateTracker
 HOST,public-tracker.cf,PrivateTracker
 HOST,public.publictracker.xyz,PrivateTracker
+HOST,public.tracker.vraphim.com,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta-net.ru,PrivateTracker
 HOST,retracker01-msk-virt.corbina.net,PrivateTracker
@@ -84,6 +84,7 @@ HOST,run.publictracker.xyz,PrivateTracker
 HOST,ryjer.com,PrivateTracker
 HOST,sanincode.com,PrivateTracker
 HOST,share.camoe.cn,PrivateTracker
+HOST,shubt.net,PrivateTracker
 HOST,soundmovie.ru,PrivateTracker
 HOST,ssb14.nohost.me,PrivateTracker
 HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
@@ -173,8 +174,10 @@ HOST,trackerb.jonaslsa.com,PrivateTracker
 HOST,trackers.mlsub.net,PrivateTracker
 HOST,ts.populargamers.co.za,PrivateTracker
 HOST,ttk2.nbaonlineservice.com,PrivateTracker
+HOST,u4.trakx.crim.ist,PrivateTracker
 HOST,uploads.gamecoast.net,PrivateTracker
 HOST,v1046920.hosted-by-vdsina.ru,PrivateTracker
+HOST,v2.iperson.xyz,PrivateTracker
 HOST,v6-tracker.0g.cx,PrivateTracker
 HOST,vm3268418.24ssd.had.wf,PrivateTracker
 HOST,wepzone.net,PrivateTracker

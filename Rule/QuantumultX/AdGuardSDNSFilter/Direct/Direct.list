@@ -1,7 +1,7 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:22:46
+# UPDATED: 2023-07-20 23:24:07
 # HOST: 112
 # TOTAL: 112
 HOST,5471782.fls.doubleclick.net,AdGuardSDNSFilterDirect
@@ -33,8 +33,6 @@ HOST,captcha.su.baidu.com,AdGuardSDNSFilterDirect
 HOST,catchup.thisisdax.com,AdGuardSDNSFilterDirect
 HOST,cdn.duurzaam.greenchoice.nl,AdGuardSDNSFilterDirect
 HOST,cdn.rozetka.com.ua,AdGuardSDNSFilterDirect
-HOST,cdnbc-wup.hsbc.com.hk,AdGuardSDNSFilterDirect
-HOST,chathamdailynews.remembering.ca,AdGuardSDNSFilterDirect
 HOST,cindyholbrook.lpages.co,AdGuardSDNSFilterDirect
 HOST,citiintl.122.2o7.net,AdGuardSDNSFilterDirect
 HOST,cj.dotomi.com,AdGuardSDNSFilterDirect
@@ -59,6 +57,7 @@ HOST,envato.market,AdGuardSDNSFilterDirect
 HOST,eum-blue-saas.instana.io,AdGuardSDNSFilterDirect
 HOST,feed.adrelayer.com,AdGuardSDNSFilterDirect
 HOST,forum.notebookreview.com,AdGuardSDNSFilterDirect
+HOST,gate.first-id.fr,AdGuardSDNSFilterDirect
 HOST,go.adjust.com,AdGuardSDNSFilterDirect
 HOST,go.scorptec.com.au,AdGuardSDNSFilterDirect
 HOST,goto.target.com,AdGuardSDNSFilterDirect
@@ -75,6 +74,7 @@ HOST,id.i2i.jp,AdGuardSDNSFilterDirect
 HOST,img.ads.tvb.com,AdGuardSDNSFilterDirect
 HOST,intersport.peerius.com,AdGuardSDNSFilterDirect
 HOST,js.monitor.azure.com,AdGuardSDNSFilterDirect
+HOST,leechers-paradise.org,AdGuardSDNSFilterDirect
 HOST,link.morningbrew.com,AdGuardSDNSFilterDirect
 HOST,links.e.theatlantic.com,AdGuardSDNSFilterDirect
 HOST,links.getblueshift.com,AdGuardSDNSFilterDirect
@@ -101,6 +101,7 @@ HOST,px.a8.net,AdGuardSDNSFilterDirect
 HOST,radiofrance.targetspot.com,AdGuardSDNSFilterDirect
 HOST,redir.tradedoubler.com,AdGuardSDNSFilterDirect
 HOST,redirect.appmetrica.yandex.com,AdGuardSDNSFilterDirect
+HOST,remembering.ca,AdGuardSDNSFilterDirect
 HOST,stash.roistat.com,AdGuardSDNSFilterDirect
 HOST,str.hit.gemius.pl,AdGuardSDNSFilterDirect
 HOST,support-beacon.nakanohito.jp,AdGuardSDNSFilterDirect
@@ -113,6 +114,5 @@ HOST,torimochi.line-apps.com,AdGuardSDNSFilterDirect
 HOST,track.rutarget.ru,AdGuardSDNSFilterDirect
 HOST,validate.perfdrive.com,AdGuardSDNSFilterDirect
 HOST,vcentry3.valuecommerce.ne.jp,AdGuardSDNSFilterDirect
-HOST,wup-7b4df495.santander.cl,AdGuardSDNSFilterDirect
 HOST,www.googleadservices.com,AdGuardSDNSFilterDirect
 HOST,www.jdoqocy.com,AdGuardSDNSFilterDirect

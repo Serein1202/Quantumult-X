@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-14 02:11:38
+# UPDATED: 2023-07-20 23:22:11
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19159
+# DOMAIN-SUFFIX: 19161
 # IP-CIDR: 105
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19467
+# TOTAL: 19469
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -1662,6 +1662,7 @@ DOMAIN-SUFFIX,bazel.build
 DOMAIN-SUFFIX,bb33.net
 DOMAIN-SUFFIX,bbbaihu.vip
 DOMAIN-SUFFIX,bbc-anal.com
+DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,bbcpersian.com
 DOMAIN-SUFFIX,bbcpornonly.com
 DOMAIN-SUFFIX,bbcverticals.com
@@ -13343,6 +13344,7 @@ DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yunlaopo.cc
 DOMAIN-SUFFIX,yunlaopo.com
 DOMAIN-SUFFIX,yunlaopo.net
+DOMAIN-SUFFIX,yusercontent.com
 DOMAIN-SUFFIX,yusjb.com
 DOMAIN-SUFFIX,ywbclx.top
 DOMAIN-SUFFIX,ywoos.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-14 02:11:38
+# UPDATED: 2023-07-20 23:22:11
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19159
+# DOMAIN-SUFFIX: 19161
 # IP-CIDR: 105
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19467
+# TOTAL: 19469
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -1662,6 +1662,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bb33.net
 .bbbaihu.vip
 .bbc-anal.com
+.bbc-reporting-api.app
 .bbcpersian.com
 .bbcpornonly.com
 .bbcverticals.com
@@ -13343,6 +13344,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .yunlaopo.cc
 .yunlaopo.com
 .yunlaopo.net
+.yusercontent.com
 .yusjb.com
 .ywbclx.top
 .ywoos.com
